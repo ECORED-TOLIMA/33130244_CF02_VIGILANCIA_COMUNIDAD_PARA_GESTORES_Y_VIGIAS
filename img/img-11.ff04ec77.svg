@@ -1,0 +1,513 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="561" height="300" viewBox="0 0 561 300">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_456317" data-name="Rectángulo 456317" width="510" height="300" transform="translate(824.711 7118)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_456276" data-name="Rectángulo 456276" width="431.738" height="401.923" fill="#fa9757"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_456434" data-name="Rectángulo 456434" width="210.294" height="283.003" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectángulo_456390" data-name="Rectángulo 456390" width="50.324" height="48.074" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectángulo_456391" data-name="Rectángulo 456391" width="12.598" height="23.97" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect id="Rectángulo_456392" data-name="Rectángulo 456392" width="32.731" height="19.905" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect id="Rectángulo_456393" data-name="Rectángulo 456393" width="23.903" height="73.115" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <rect id="Rectángulo_456395" data-name="Rectángulo 456395" width="23.903" height="73.041" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <rect id="Rectángulo_456396" data-name="Rectángulo 456396" width="29.322" height="45.952" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <rect id="Rectángulo_456397" data-name="Rectángulo 456397" width="24.921" height="8.586" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <rect id="Rectángulo_456398" data-name="Rectángulo 456398" width="80.955" height="104.313" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <rect id="Rectángulo_456400" data-name="Rectángulo 456400" width="32.629" height="36.604" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <rect id="Rectángulo_456401" data-name="Rectángulo 456401" width="17.719" height="83.146" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-17">
+      <rect id="Rectángulo_456402" data-name="Rectángulo 456402" width="57.18" height="67.781" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-18">
+      <rect id="Rectángulo_456403" data-name="Rectángulo 456403" width="117.604" height="83.146" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-19">
+      <rect id="Rectángulo_456404" data-name="Rectángulo 456404" width="117.604" height="13.076" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-20">
+      <rect id="Rectángulo_456405" data-name="Rectángulo 456405" width="25.339" height="60.154" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-21">
+      <rect id="Rectángulo_456406" data-name="Rectángulo 456406" width="95.591" height="11.828" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-22">
+      <rect id="Rectángulo_456407" data-name="Rectángulo 456407" width="95.591" height="10.144" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-23">
+      <rect id="Rectángulo_456408" data-name="Rectángulo 456408" width="14.566" height="100.659" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-24">
+      <rect id="Rectángulo_456409" data-name="Rectángulo 456409" width="10.866" height="100.373" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-25">
+      <rect id="Rectángulo_456410" data-name="Rectángulo 456410" width="90.215" height="54.616" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-26">
+      <rect id="Rectángulo_456411" data-name="Rectángulo 456411" width="26.092" height="27.876" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-27">
+      <rect id="Rectángulo_456412" data-name="Rectángulo 456412" width="49.7" height="67.851" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-28">
+      <rect id="Rectángulo_456413" data-name="Rectángulo 456413" width="77.03" height="112.035" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-29">
+      <rect id="Rectángulo_456414" data-name="Rectángulo 456414" width="36.025" height="45.804" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-30">
+      <rect id="Rectángulo_456415" data-name="Rectángulo 456415" width="33.624" height="43.97" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-31">
+      <rect id="Rectángulo_456417" data-name="Rectángulo 456417" width="62.882" height="65.402" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-32">
+      <path id="Trazado_1000571" data-name="Trazado 1000571" d="M179.134,223.513c.233-6.786,4.27-11.806,9.407-15.837,9.194-7.215,21.182-8.642,32.478-6.956a35.441,35.441,0,0,1,14.992,9.235A34.346,34.346,0,0,1,242,218.378a60.3,60.3,0,0,0-6.069,3.509,62.881,62.881,0,0,0-15.3,13.588,45.253,45.253,0,0,0-8.571,17.374,71.987,71.987,0,0,0-1.423,8.713,20.936,20.936,0,0,0-.1,3.9,1.984,1.984,0,0,1-1.883-.633c-1.392-1.759-1.029-4.429-1.788-6.481a55.821,55.821,0,0,0-2.052-5.293c-.912-1.857-2.488-2.281-4.31-2.867a33.745,33.745,0,0,1-15.755-10.8,34.681,34.681,0,0,1-3.857-6.2,23.32,23.32,0,0,1-1.755-9.674" transform="translate(-179.12 -200.081)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.104" cy="0.45" r="0.541" gradientTransform="translate(-0.839 7.675) rotate(180) scale(1.056 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9cbc0"/>
+      <stop offset="0.335" stop-color="#f9cbc0"/>
+      <stop offset="0.944" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <clipPath id="clip-path-33">
+      <rect id="Rectángulo_456418" data-name="Rectángulo 456418" width="67.006" height="52.676" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-34">
+      <rect id="Rectángulo_456419" data-name="Rectángulo 456419" width="5.975" height="10.73" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-35">
+      <rect id="Rectángulo_456420" data-name="Rectángulo 456420" width="2.954" height="7.382" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-36">
+      <rect id="Rectángulo_456421" data-name="Rectángulo 456421" width="7.573" height="6.942" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-37">
+      <rect id="Rectángulo_456422" data-name="Rectángulo 456422" width="84.23" height="80.53" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-38">
+      <rect id="Rectángulo_456423" data-name="Rectángulo 456423" width="64.325" height="64.49" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-39">
+      <rect id="Rectángulo_456424" data-name="Rectángulo 456424" width="6.1" height="11.055" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-40">
+      <rect id="Rectángulo_456425" data-name="Rectángulo 456425" width="25.42" height="6.837" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-41">
+      <rect id="Rectángulo_456426" data-name="Rectángulo 456426" width="82.141" height="106.705" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-42">
+      <rect id="Rectángulo_456427" data-name="Rectángulo 456427" width="36.017" height="34.708" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-43">
+      <rect id="Rectángulo_456428" data-name="Rectángulo 456428" width="7.666" height="3.76" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-44">
+      <rect id="Rectángulo_456429" data-name="Rectángulo 456429" width="7.017" height="4.357" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-45">
+      <rect id="Rectángulo_456430" data-name="Rectángulo 456430" width="6.879" height="5.35" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-46">
+      <rect id="Rectángulo_456431" data-name="Rectángulo 456431" width="23.633" height="21.141" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-47">
+      <rect id="Rectángulo_456432" data-name="Rectángulo 456432" width="8.125" height="8.985" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1186155" data-name="Grupo 1186155" transform="translate(10959 4057)">
+    <rect id="Rectángulo_456275" data-name="Rectángulo 456275" width="561" height="300" transform="translate(-10959 -4057)" fill="#fff3d3"/>
+    <g id="Enmascarar_grupo_1098961" data-name="Enmascarar grupo 1098961" transform="translate(-11766.711 -11175)" clip-path="url(#clip-path)">
+      <g id="Grupo_1185812" data-name="Grupo 1185812" transform="translate(872.342 7123.37)">
+        <g id="Grupo_1186022" data-name="Grupo 1186022">
+          <g id="Grupo_1185723" data-name="Grupo 1185723">
+            <g id="Grupo_1185722" data-name="Grupo 1185722" clip-path="url(#clip-path-2)">
+              <path id="Trazado_1000296" data-name="Trazado 1000296" d="M410.294,84.665a117.845,117.845,0,0,0-43.3-66.38C351.726,6.716,331.568-2.785,308.62.748,257.388,8.637,202.957,79.1,145.837,68.083S42.772,102.029,50.324,173.023s133.014,126.32,244.305,95.591c95.622-26.4,133.3-110.835,115.665-183.949" transform="translate(-13.02 0)" fill="#ffdd8b"/>
+              <path id="Trazado_1000297" data-name="Trazado 1000297" d="M107.384,68.711c15.92,0,17.084-24.788,1.078-24.788-15.92,0-17.084,24.788-1.078,24.788" transform="translate(-25.229 -11.551)" fill="#ffc025"/>
+              <path id="Trazado_1000298" data-name="Trazado 1000298" d="M497.235,302.95c15.92,0,17.084-24.788,1.078-24.788-15.92,0-17.084,24.788-1.078,24.788" transform="translate(-127.752 -73.151)" fill="#ffc025"/>
+              <path id="Trazado_1000299" data-name="Trazado 1000299" d="M62.525,99.091c11.393,0,12.226-17.739.772-17.739-11.393,0-12.226,17.739-.772,17.739" transform="translate(-14.288 -21.394)" fill="#ffdd8b"/>
+              <path id="Trazado_1000300" data-name="Trazado 1000300" d="M17.192,213.868a9.974,9.974,0,0,0-6.869-3.2A10.4,10.4,0,0,0,3.2,213.26a7.41,7.41,0,0,0-2.184,3.095A7.459,7.459,0,0,0,0,220.129a9.9,9.9,0,0,0,9.463,10.323,10.4,10.4,0,0,0,7.121-2.594,7.432,7.432,0,0,0,2.184-3.095,7.459,7.459,0,0,0,1.018-3.774,10.009,10.009,0,0,0-2.594-7.121" transform="translate(0 -55.401)" fill="#ffdd8b"/>
+              <path id="Trazado_1000301" data-name="Trazado 1000301" d="M576.136,227.858a9.974,9.974,0,0,0-6.869-3.2,10.4,10.4,0,0,0-7.121,2.594,11.017,11.017,0,0,0-3.2,6.869,9.9,9.9,0,0,0,9.463,10.323,10.4,10.4,0,0,0,7.121-2.594,11.018,11.018,0,0,0,3.2-6.869,10.01,10.01,0,0,0-2.594-7.121" transform="translate(-146.991 -59.08)" fill="#ffc025"/>
+              <path id="Trazado_1000302" data-name="Trazado 1000302" d="M83.316,292.463a10.042,10.042,0,0,0-6.876,2.5,10.639,10.639,0,0,0-3.091,6.632,9.56,9.56,0,0,0,9.136,9.967,10.04,10.04,0,0,0,6.876-2.5,10.633,10.633,0,0,0,3.091-6.632,9.56,9.56,0,0,0-9.136-9.967" transform="translate(-19.289 -76.912)" fill="#ffc025"/>
+              <path id="Trazado_1000303" data-name="Trazado 1000303" d="M500.523,0a10.042,10.042,0,0,0-6.876,2.5,7.17,7.17,0,0,0-2.109,2.989,7.2,7.2,0,0,0-.982,3.644,9.56,9.56,0,0,0,9.136,9.967,10.04,10.04,0,0,0,6.876-2.5,7.168,7.168,0,0,0,2.109-2.988,7.2,7.2,0,0,0,.982-3.645A9.56,9.56,0,0,0,500.523,0" transform="translate(-129.007)" fill="#ffdd8b"/>
+              <path id="Trazado_1000304" data-name="Trazado 1000304" d="M556.749,181.623c-9.348,0-10.031,14.555-.633,14.555,9.348,0,10.032-14.555.633-14.555" transform="translate(-144.48 -47.763)" fill="#ffdd8b"/>
+            </g>
+          </g>
+          <g id="Grupo_1186154" data-name="Grupo 1186154" transform="translate(110.722 7.088)">
+            <g id="Grupo_1186153" data-name="Grupo 1186153" clip-path="url(#clip-path-3)">
+              <g id="Grupo_1186152" data-name="Grupo 1186152" transform="translate(0 0)">
+                <g id="Grupo_1186151" data-name="Grupo 1186151" clip-path="url(#clip-path-3)">
+                  <path id="Trazado_1000517" data-name="Trazado 1000517" d="M480.456,871.89a33.27,33.27,0,1,1,33.27-33.269,33.307,33.307,0,0,1-33.27,33.269m0-64.994a31.725,31.725,0,1,0,31.725,31.725A31.76,31.76,0,0,0,480.456,806.9" transform="translate(-382.765 -689.331)" fill="#f15860"/>
+                  <path id="Trazado_1000518" data-name="Trazado 1000518" d="M545.843,926.269A22.265,22.265,0,1,1,568.108,904a22.29,22.29,0,0,1-22.265,22.265m0-42.985A20.72,20.72,0,1,0,566.563,904a20.743,20.743,0,0,0-20.72-20.72" transform="translate(-448.152 -754.716)" fill="#f15860"/>
+                  <path id="Trazado_1000519" data-name="Trazado 1000519" d="M415.336,817.728a44.23,44.23,0,1,1,44.23-44.23,44.28,44.28,0,0,1-44.23,44.23m0-86.916A42.685,42.685,0,1,0,458.021,773.5a42.734,42.734,0,0,0-42.685-42.686" transform="translate(-317.645 -624.209)" fill="#f15860"/>
+                  <path id="Trazado_1000520" data-name="Trazado 1000520" d="M471.59,905.891c-.575.124-5.485-.114-18.423,15.069-8.462,9.93-23.586,27.052-23.586,27.052s-1.958,4.4,3.9,5.743,37.024-25.769,42.989-31.928,2.866-17.6-4.876-15.936" transform="translate(-367.426 -775.248)" fill="#f2d7bd"/>
+                  <g id="Grupo_1186025" data-name="Grupo 1186025" transform="translate(61.84 130.48)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186024" data-name="Grupo 1186024">
+                      <g id="Grupo_1186023" data-name="Grupo 1186023" clip-path="url(#clip-path-5)">
+                        <path id="Trazado_1000521" data-name="Trazado 1000521" d="M471.59,905.891c-.575.124-5.485-.114-18.423,15.069-8.462,9.93-23.586,27.052-23.586,27.052s-1.958,4.4,3.9,5.743,37.024-25.769,42.989-31.928,2.866-17.6-4.876-15.936" transform="translate(-429.267 -905.729)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186028" data-name="Grupo 1186028" transform="translate(99.567 130.48)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186027" data-name="Grupo 1186027">
+                      <g id="Grupo_1186026" data-name="Grupo 1186026" clip-path="url(#clip-path-6)">
+                        <path id="Trazado_1000522" data-name="Trazado 1000522" d="M692.132,921.53a53.2,53.2,0,0,0-.6-7.856c-.229-1.265-.735-3.166-.021-4.369.552-.93,1.487-.955,2.232-1.607a1.617,1.617,0,0,0,.313-1.4,6.935,6.935,0,0,1,1.684-.4c7.742-1.659,10.842,9.785,4.876,15.936-1.505,1.554-4.619,4.444-8.522,7.872a53.018,53.018,0,0,0,.037-8.169" transform="translate(-691.144 -905.729)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186031" data-name="Grupo 1186031" transform="translate(61.84 158.65)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186030" data-name="Grupo 1186030">
+                      <g id="Grupo_1186029" data-name="Grupo 1186029" clip-path="url(#clip-path-7)">
+                        <path id="Trazado_1000523" data-name="Trazado 1000523" d="M429.581,1115.383s5.355-6.064,11.477-13.067c6.97-1.124,14.145-1.589,20.94-.135-11.139,9.375-24.836,19.787-28.52,18.945-5.853-1.339-3.9-5.743-3.9-5.743" transform="translate(-429.267 -1101.269)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000524" data-name="Trazado 1000524" d="M643,527.12s-11.977,3.167-9.784,15.819,4.847,42.486,4.847,42.486,2.9,15.131,9.9,14.267,8.87-7.718,8.89-16.34-.177-37.266-2.746-45.16-6.584-13.3-11.1-11.072" transform="translate(-541.763 -450.749)" fill="#f2d7bd"/>
+                  <g id="Grupo_1186034" data-name="Grupo 1186034" transform="translate(91.183 75.864)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186033" data-name="Grupo 1186033">
+                      <g id="Grupo_1186032" data-name="Grupo 1186032" clip-path="url(#clip-path-8)">
+                        <path id="Trazado_1000525" data-name="Trazado 1000525" d="M643,527.12s-11.977,3.167-9.784,15.819,4.847,42.486,4.847,42.486,2.9,15.131,9.9,14.267,8.87-7.718,8.89-16.34-.177-37.266-2.746-45.16-6.584-13.3-11.1-11.072" transform="translate(-632.946 -526.613)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186037" data-name="Grupo 1186037" transform="translate(91.183 75.864)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186036" data-name="Grupo 1186036">
+                      <g id="Grupo_1186035" data-name="Grupo 1186035" clip-path="url(#clip-path-8)">
+                        <path id="Trazado_1000526" data-name="Trazado 1000526" d="M641.718,589.176c-.229-1.265-.735-3.166-.021-4.369.552-.93,1.486-.955,2.232-1.607.534-.466.3-1.528.2-2.116-.212-1.253-.265-2.521-.436-3.781a30.393,30.393,0,0,0-1.9-7.418,28.237,28.237,0,0,0-6.242-9.322c-.747-6.636-1.573-13.186-2.344-17.623C631.021,530.288,643,527.121,643,527.121c4.52-2.232,8.534,3.175,11.1,11.072s2.76,36.537,2.746,45.16-1.9,15.474-8.89,16.34c-2.325.287-4.2-1.2-5.66-3.3a48.564,48.564,0,0,0-.58-7.217" transform="translate(-632.946 -526.614)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186040" data-name="Grupo 1186040" transform="translate(91.183 75.864)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186039" data-name="Grupo 1186039">
+                      <g id="Grupo_1186038" data-name="Grupo 1186038" clip-path="url(#clip-path-10)">
+                        <path id="Trazado_1000527" data-name="Trazado 1000527" d="M643,527.12s-11.977,3.167-9.784,15.819c1.277,7.36,2.709,20.536,3.683,30.27.073.019.145.042.218.06a22.531,22.531,0,0,0,5.272.9,34.007,34.007,0,0,0,3.607-.364c2.116-.189,2.779,1.081,3.273,2.995.781,3.013,4.251,12.484,2.938,15.143-1.028,2.081-2.9,5.663-4,7.711,6.789-1,8.623-7.783,8.641-16.3.014-8.623-.177-37.266-2.746-45.16s-6.584-13.3-11.1-11.072" transform="translate(-632.946 -526.613)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000528" data-name="Trazado 1000528" d="M630.848,526.553s-2.3,3.849-.87,17.5c1.475,14.055,1.813,21.213,1.813,21.213s15.432,3.528,27.042-2.14l-4.592-31.685s-6.273-14.738-18.5-10.159c0,0-4.6,2.637-4.893,5.271" transform="translate(-538.821 -445.431)" fill="#6fbed8"/>
+                  <g id="Grupo_1186043" data-name="Grupo 1186043" transform="translate(90.69 74.97)" opacity="0.5" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186042" data-name="Grupo 1186042">
+                      <g id="Grupo_1186041" data-name="Grupo 1186041" clip-path="url(#clip-path-11)">
+                        <path id="Trazado_1000529" data-name="Trazado 1000529" d="M635.754,521.283s-4.6,2.637-4.893,5.271c0,0-1.824,3.06-1.212,13.365.111-.686.243-1.369.42-2.037.072-.265.417-.183.481.033,1.25,4.181,2.615,8.332,4.214,12.394.8,2.043,1.649,4.07,2.571,6.061.74,1.6,1.661,3.079,2.454,4.649a9.573,9.573,0,0,1,.865,2.131c.073.321.388.969.231,1.312a2.25,2.25,0,0,1-1.951.967c-1.419.1-2.832.12-4.25.226-.227.017-.446.013-.667.017,4.675.731,15.884,1.823,24.83-2.545l-4.592-31.685s-6.273-14.738-18.5-10.159" transform="translate(-629.524 -520.401)" fill="#5992c1"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000530" data-name="Trazado 1000530" d="M.8,1801.026c1.145-1.7,4.138-3.77,13.083-5.774,2.4-.537,4.889-1.05,7.362-1.519,10.988-2.106,12.18-4.391,12.18-4.391l20.206,2.984a50.177,50.177,0,0,1,.536,18.306c-1.779.8-4.877,1.133-10.248.568-23.84-.773-44.317-3.931-43.91-8.076a4.512,4.512,0,0,1,.791-2.1" transform="translate(0 -1531.569)" fill="#8a5953"/>
+                  <g id="Grupo_1186046" data-name="Grupo 1186046" transform="translate(29.611 257.774)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186045" data-name="Grupo 1186045">
+                      <g id="Grupo_1186044" data-name="Grupo 1186044" clip-path="url(#clip-path-12)">
+                        <path id="Trazado_1000531" data-name="Trazado 1000531" d="M224.331,1797.626a47.911,47.911,0,0,1-8.8-1.246,27.567,27.567,0,0,1-9.983-4.843c3.31-1.241,3.811-2.194,3.811-2.194l20.206,2.984a40.43,40.43,0,0,1,.9,5.544,40.874,40.874,0,0,1-6.138-.245" transform="translate(-205.548 -1789.343)" fill="#a56a63"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000532" data-name="Trazado 1000532" d="M1.126,1867.435c2.372,2.546,6.235,3.434,9.532,4.008,2.043.355,4.106.576,6.149.929,3.053.526,6.085,1.139,9.154,1.578a150.567,150.567,0,0,0,18.927,1.739,33.523,33.523,0,0,0,8.144-.6,7.345,7.345,0,0,0,1.462-.488q-.133,1.445-.33,2.877c-1.779.8-4.877,1.133-10.248.568-23.84-.772-44.317-3.931-43.91-8.075a4.516,4.516,0,0,1,.791-2.1,5.01,5.01,0,0,1,.329-.434" transform="translate(0 -1598.411)" fill="#6e4742"/>
+                  <path id="Trazado_1000533" data-name="Trazado 1000533" d="M248.021,1118.34s21.428,14.111,25.734,36.6l-15.343.066-38.881-3.8,1.634,4.488-2.554,4.942,1.71,61.505s-16.261,1.434-25.62-5.946c0,0-2.621-67.418-1.707-79.332s10.953-17.437,18.953-17.406,12.477-.141,12.477-.141l11.312-1.377Z" transform="translate(-165.026 -956.892)" fill="#9b8c7b"/>
+                  <g id="Grupo_1186049" data-name="Grupo 1186049" transform="translate(27.775 161.052)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186048" data-name="Grupo 1186048">
+                      <g id="Grupo_1186047" data-name="Grupo 1186047" clip-path="url(#clip-path-13)">
+                        <path id="Trazado_1000534" data-name="Trazado 1000534" d="M248.021,1118.34s21.428,14.111,25.734,36.6l-15.343.066-38.881-3.8,1.634,4.488-2.554,4.942,1.71,61.505s-16.261,1.434-25.62-5.946c0,0-2.621-67.418-1.707-79.332s10.953-17.437,18.953-17.406,12.477-.141,12.477-.141l11.312-1.377Z" transform="translate(-192.801 -1117.944)" fill="#cdbaa3"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186052" data-name="Grupo 1186052" transform="translate(27.775 161.052)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186051" data-name="Grupo 1186051">
+                      <g id="Grupo_1186050" data-name="Grupo 1186050" clip-path="url(#clip-path-13)">
+                        <path id="Trazado_1000535" data-name="Trazado 1000535" d="M204.179,1121.09c-3.083,2.434-6.048,5.005-7.2,8.913-2.134,7.222-1.715,14.943-1.6,22.384a222.563,222.563,0,0,0,1.4,23.042,165.192,165.192,0,0,0,4.413,22.9,79.951,79.951,0,0,0,2.723,8.6,21.356,21.356,0,0,0,4.276,7.373.251.251,0,0,0,.349.035,12.278,12.278,0,0,0,2.522-4.907c.7-2.234,1.4-4.5,1.975-6.766a92.987,92.987,0,0,0,2.416-16.043,143.577,143.577,0,0,0,.537-16.289c-.107-2.563-.3-5.118-.4-7.683a27.855,27.855,0,0,0-.68-6.119.254.254,0,0,0-.4-.149c-3.118,2.019-6.348,3.866-9.417,5.958,3.811-4.523,7.517-9.276,12.423-12.648a.25.25,0,0,0,.035-.35c-4.256-5.839-9.725-10.762-13.55-16.913,2.658,2.033,5.313,4.073,7.91,6.185,1.47,1.195,2.955,2.388,4.359,3.661,1.073.971,2.05,2.055,3.166,2.978,4.46,3.683,11.239,2.317,16.584,2.278,2.6-.019,5.407.464,7.958-.194.282-.073,1.407-.214,1.589-.588a3.509,3.509,0,0,0-.093-1.8c-.505-2.132-2.218-3.932-3.486-5.647a52.025,52.025,0,0,1-4.272-6.547c4.885,4.309,9.435,9.035,12.633,14.759.109.194.473.19.473-.08a32.725,32.725,0,0,0-3.552-13.976,51.949,51.949,0,0,0-8-12.172,16.456,16.456,0,0,0-3.734-3.31l.209-.025,12.286.4s21.428,14.111,25.734,36.6l-15.343.066-38.881-3.8,1.634,4.488-2.554,4.942,1.71,61.505s-16.261,1.434-25.62-5.946c0,0-2.621-67.418-1.707-79.332a18.15,18.15,0,0,1,11.185-15.777" transform="translate(-192.8 -1117.944)" fill="#cdbaa3"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000536" data-name="Trazado 1000536" d="M524.289,1131.525c-1.963-6.745-5.051-13.29-10.139-18.181,2.815-.166,12.3-.282,17.406,5.148,6.043,6.424,17.593,19.758,17.153,33.516l-17.824-.405c-.505-6.381-4.808-13.936-6.6-20.078" transform="translate(-440.081 -952.909)" fill="#cdbaa3"/>
+                  <g id="Grupo_1186055" data-name="Grupo 1186055" transform="translate(76.011 162.495)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186054" data-name="Grupo 1186054">
+                      <g id="Grupo_1186053" data-name="Grupo 1186053" clip-path="url(#clip-path-15)">
+                        <path id="Trazado_1000537" data-name="Trazado 1000537" d="M534.552,1136.624c1.667,3.027,3.133,6.184,4.642,9.292,1.392,2.871,2.555,5.908,4.059,8.717a2.751,2.751,0,0,0,3.832,1.361c2.087-.781,2.629-2.337,2.608-4.473a20.449,20.449,0,0,0-3.672-10.736c4.981,5.466,7.519,12.671,9.92,19.61.086.251.439.144.473-.08,1.052-7.111-2.817-14.489-6.527-20.293a57.861,57.861,0,0,0-7.262-9c-.6-.622-1.205-1.266-1.834-1.895a12.822,12.822,0,0,1,2.306,1.922c6.043,6.424,17.594,19.758,17.153,33.516l-17.824-.405c-.505-6.381-4.808-13.936-6.6-20.078a42.856,42.856,0,0,0-8.2-16.121,36.959,36.959,0,0,1,6.917,8.663" transform="translate(-527.635 -1127.961)" fill="#cdbaa3"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000538" data-name="Trazado 1000538" d="M536.669,1386.687s2.57,38.223,42.817,50.671c0,0,11.418,3.629,10.561,9.714s-27.688,4.906-34.824,15.429l-1.712,4.383H646.85s1.428-6.012-2-8.793-8.849-16.983-2.854-31.3,12.275-32.036,12.275-43.048H537.811Z" transform="translate(-459.356 -1184.395)" fill="#f9f5ef"/>
+                  <g id="Grupo_1186058" data-name="Grupo 1186058" transform="translate(177.197 199.342)" opacity="0.6" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186057" data-name="Grupo 1186057">
+                      <g id="Grupo_1186056" data-name="Grupo 1186056" clip-path="url(#clip-path-16)">
+                        <path id="Trazado_1000539" data-name="Trazado 1000539" d="M1236.836,1458.232a43.277,43.277,0,0,0-2.789-3.912,21.3,21.3,0,0,1-2.568-4.964c-2.712-7.746-1.31-15.78,1.444-23.3s6.4-14.673,9.157-22.2c1.313-3.581,2.714-7.253,3.074-11.079.278-2.959.138-6.162,1.035-9.038h1.549c0,11.012-6.28,28.726-12.274,43.048s-.571,28.525,2.854,31.3,2,8.793,2,8.793h-2.706c.107-2.952.638-6.016-.773-8.652" transform="translate(-1230.018 -1383.738)" fill="#ebe9e3"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186061" data-name="Grupo 1186061" transform="translate(77.313 199.342)" opacity="0.6" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186060" data-name="Grupo 1186060">
+                      <g id="Grupo_1186059" data-name="Grupo 1186059" clip-path="url(#clip-path-17)">
+                        <path id="Trazado_1000540" data-name="Trazado 1000540" d="M545.3,1384.695a83.031,83.031,0,0,0,2.626,14.14c2.8,8.9,8.856,16.744,15.954,22.694,6.393,5.355,13.78,9.239,20.668,13.884,2.523,1.7,5.252,3.337,7.279,5.641,1.035,1.179,2.144,2.725,2.014,4.388a5.121,5.121,0,0,1-2.7,3.945c-2.765,1.6-6.1,1.922-9.231,2.133,4.528-1.139,7.85-2.371,8.142-4.447.857-6.086-10.561-9.714-10.561-9.714-40.247-12.447-42.817-50.671-42.817-50.671l1.142-2.949h7.361c.04.324.084.644.126.957" transform="translate(-536.669 -1383.738)" fill="#ebe9e3"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186064" data-name="Grupo 1186064" transform="translate(77.313 199.342)" opacity="0.6" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186063" data-name="Grupo 1186063">
+                      <g id="Grupo_1186062" data-name="Grupo 1186062" clip-path="url(#clip-path-18)">
+                        <path id="Trazado_1000541" data-name="Trazado 1000541" d="M590.047,1447.071c.857-6.086-10.561-9.714-10.561-9.714-40.247-12.447-42.817-50.671-42.817-50.671l1.142-2.949H654.273a43.2,43.2,0,0,1-.594,6.662c-4.685,3.349-10.715,5.017-16.236,6.193a164.285,164.285,0,0,1-31.579,3.131,229.647,229.647,0,0,1-27.838-1.144c-4.476-.47-13.109-2.805-14.913,3.444-.787,2.725-.057,5.742.928,8.324a26.516,26.516,0,0,0,4.194,7.255c3.867,4.766,8.933,8.391,14.125,11.584,2.634,1.62,5.325,3.149,8.007,4.689a49.162,49.162,0,0,1,7.584,4.814c2.36,2.011,5.767,5.661,3.78,9-1.742,2.926-5.306,3.961-8.454,4.567-6.174,1.191-12.766,1.284-18.73,3.422-2.878,1.031-5.65,2.683-7.153,5.452a22.2,22.2,0,0,0-1.959,5.751H553.511l1.712-4.383c7.136-10.524,33.968-9.344,34.824-15.429" transform="translate(-536.669 -1383.737)" fill="#ebe9e3"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186067" data-name="Grupo 1186067" transform="translate(77.313 199.342)" opacity="0.6" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186066" data-name="Grupo 1186066">
+                      <g id="Grupo_1186065" data-name="Grupo 1186065" clip-path="url(#clip-path-19)">
+                        <path id="Trazado_1000542" data-name="Trazado 1000542" d="M638.977,1393.438a155.608,155.608,0,0,1-27.091,3.3c-9.174.223-18.4-.059-27.559-.524-9.214-.469-18.417-1.23-27.564-2.458-4.594-.618-9.143-1.469-13.723-2.171-1.924-.295-3.888-.538-5.8-.945a37.424,37.424,0,0,1-.567-3.95l1.142-2.95H654.273a38.925,38.925,0,0,1-.331,4.8c-4.1,3.231-10.034,3.9-14.966,4.9" transform="translate(-536.669 -1383.737)" fill="#cdcbc6"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186070" data-name="Grupo 1186070" transform="translate(164.35 211.809)" opacity="0.6" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186069" data-name="Grupo 1186069">
+                      <g id="Grupo_1186068" data-name="Grupo 1186068" clip-path="url(#clip-path-20)">
+                        <path id="Trazado_1000543" data-name="Trazado 1000543" d="M1151.975,1478.488c4.541-3.121,10.228-4.409,14.2-8.216a22.347,22.347,0,0,1-3.6,8.479c-1.915,2.65-4.468,4.211-6.9,6.3-4.522,3.877-4.805,10.327-5.786,15.821-.977,5.465-1.723,11.131-.714,16.652a26.067,26.067,0,0,0,6.443,12.9c-6.185-3.185-12.373-7.706-14.037-14.749-1.526-6.46-.425-13.264.9-19.661,1.406-6.8,3.483-13.395,9.5-17.528" transform="translate(-1140.841 -1470.272)" fill="#ebe9e3"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000544" data-name="Trazado 1000544" d="M499.688,1327.876s1.331,11.622,4,13.143,30.447,6.1,73.645,5.906,48.1-7.807,48.573-11.566c.669-5.263.872-7.037.872-7.037Z" transform="translate(-427.703 -1136.581)" fill="#f9f5ef"/>
+                  <path id="Trazado_1000545" data-name="Trazado 1000545" d="M1339.081,1330.859l4.324.016s-.2,1.773-.872,7.037c-.2,1.6-1.206,3.888-5.6,6.012.647-4.364,1.38-8.718,2.147-13.065" transform="translate(-1144.335 -1139.134)" fill="#dddbd9"/>
+                  <path id="Trazado_1000546" data-name="Trazado 1000546" d="M510.363,1327.916a133.744,133.744,0,0,0,1.623,14.991c-4.688-.758-7.535-1.448-8.3-1.886-2.665-1.521-4-13.143-4-13.143Z" transform="translate(-427.704 -1136.582)" fill="#dddbd9"/>
+                  <path id="Trazado_1000547" data-name="Trazado 1000547" d="M485.53,1270.751c3.426-4.65,27.209-8.248,61.544-8.248s62.657,3.6,66.774,8.248h.517v1.17c0,5.2-30.128,9.418-67.291,9.418s-61.972-4.216-61.972-9.418v-1.17Z" transform="translate(-415.218 -1080.626)" fill="#c1bfba"/>
+                  <path id="Trazado_1000548" data-name="Trazado 1000548" d="M485.1,1263.8c0,5.2,24.806,9.418,61.972,9.418s67.291-4.216,67.291-9.418-30.128-9.417-67.291-9.417S485.1,1258.6,485.1,1263.8" transform="translate(-415.218 -1073.679)" fill="#f9f5ef"/>
+                  <g id="Grupo_1186073" data-name="Grupo 1186073" transform="translate(73.508 183.024)" opacity="0.6" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186072" data-name="Grupo 1186072">
+                      <g id="Grupo_1186071" data-name="Grupo 1186071" clip-path="url(#clip-path-21)">
+                        <path id="Trazado_1000549" data-name="Trazado 1000549" d="M510.256,1277.563c0,3.272,17.966,4.727,45.583,4.727s50.007-2.654,50.007-5.925-18.154-5.9-45.773-5.9-49.817,3.828-49.817,7.1" transform="translate(-510.256 -1270.462)" fill="#d4d2cd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186076" data-name="Grupo 1186076" transform="translate(73.508 183.024)" opacity="0.6" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186075" data-name="Grupo 1186075">
+                      <g id="Grupo_1186074" data-name="Grupo 1186074" clip-path="url(#clip-path-22)">
+                        <path id="Trazado_1000550" data-name="Trazado 1000550" d="M589.238,1274.29c-2.455-1.156-5.4-.62-8-.967a122.055,122.055,0,0,0-13.412-.99c-9.088-.206-18.208.125-27.283.606a178.787,178.787,0,0,0-22.844,2.422c-2.242.413-5.379.933-6.955,2.792-.049.058-.083.11-.128.166a1.11,1.11,0,0,1-.358-.755c0-3.273,22.2-7.1,49.817-7.1s45.773,2.63,45.773,5.9c0,1.663-5.786,3.167-15.1,4.241.592-2.443.739-5.258-1.507-6.315" transform="translate(-510.257 -1270.461)" fill="#d4d2cd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000551" data-name="Trazado 1000551" d="M1255.925,972.719h24.262s4.567.468,4.283-5.977V914.311h-28.545Z" transform="translate(-1074.996 -782.594)" fill="#dddbd9"/>
+                  <path id="Trazado_1000552" data-name="Trazado 1000552" d="M1263.352,1008.269H1285.3s4.132.395,3.873-5.031V959.1h-25.821Z" transform="translate(-1081.353 -820.93)" fill="#f9f5ef"/>
+                  <path id="Trazado_1000553" data-name="Trazado 1000553" d="M1255.925,895.693h26.968s2.139,0,2.4,1.927v4.638h-29.365Z" transform="translate(-1074.996 -766.658)" fill="#dddbd9"/>
+                  <path id="Trazado_1000554" data-name="Trazado 1000554" d="M1298.536,901.639h19.933s1.58,0,1.772,1.423v3.429h-21.7Z" transform="translate(-1111.468 -771.748)" fill="#f9f5ef"/>
+                  <g id="Grupo_1186079" data-name="Grupo 1186079" transform="translate(169.098 86.686)" opacity="0.6" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186078" data-name="Grupo 1186078">
+                      <g id="Grupo_1186077" data-name="Grupo 1186077" clip-path="url(#clip-path-23)">
+                        <path id="Trazado_1000555" data-name="Trazado 1000555" d="M1173.8,702.393h7.17l7.231-85.979s1.142-10.4-2.569-13.382c0,0-2.975-2.918-3.437,0s-8.4,99.362-8.4,99.362" transform="translate(-1173.796 -601.734)" fill="#d4d2cd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000556" data-name="Trazado 1000556" d="M1173.8,702.393l5.769,1.4,7.133-87.767s0-11.036-1.07-13c0,0-2.975-2.918-3.437,0s-8.4,99.362-8.4,99.362" transform="translate(-1004.697 -515.048)" fill="#f9f5ef"/>
+                  <g id="Grupo_1186082" data-name="Grupo 1186082" transform="translate(169.098 86.973)" opacity="0.6" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186081" data-name="Grupo 1186081">
+                      <g id="Grupo_1186080" data-name="Grupo 1186080" clip-path="url(#clip-path-24)">
+                        <path id="Trazado_1000557" data-name="Trazado 1000557" d="M1173.8,704.089h2.6s9.23-93.768,8.182-97.956c0,0-1.927-4.324-2.389-1.405s-8.4,99.362-8.4,99.362" transform="translate(-1173.796 -603.716)" fill="#d4d2cd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000558" data-name="Trazado 1000558" d="M1187.647,1297.657a1.719,1.719,0,1,0,1.719-1.72,1.72,1.72,0,0,0-1.719,1.72" transform="translate(-1016.554 -1109.243)" fill="#e3e2dc"/>
+                  <path id="Trazado_1000559" data-name="Trazado 1000559" d="M531.968,994.633c18.843-2.645,40.54-5.477,40.54-5.477l6.463-19.633,42.653,11.689s5.392,42.208-17.268,42.849c-15.783.449-51.908-1.141-72.387-2.147Z" transform="translate(-455.332 -829.852)" fill="#f2d7bd"/>
+                  <g id="Grupo_1186085" data-name="Grupo 1186085" transform="translate(76.636 139.671)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186084" data-name="Grupo 1186084">
+                      <g id="Grupo_1186083" data-name="Grupo 1186083" clip-path="url(#clip-path-25)">
+                        <path id="Trazado_1000560" data-name="Trazado 1000560" d="M552.439,991.823c9.42,4.817,15.956,13.84,24.912,19.485,9.523,6,23.379,7.784,33.27,1.6a.252.252,0,0,0-.059-.455c-9.565-3.027-19.522-4.569-28.835-8.407a164.3,164.3,0,0,1-25.06-12.792c9.163-1.228,15.842-2.1,15.842-2.1l6.463-19.633,42.653,11.689s5.392,42.208-17.268,42.849c-15.783.449-51.908-1.141-72.387-2.147V994.633c6.84-.958,14.055-1.944,20.471-2.81" transform="translate(-531.968 -969.523)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000561" data-name="Trazado 1000561" d="M604.718,440.46,620.3,452.267,630.81,439.8l-23.031-15.408Z" transform="translate(-517.602 -363.253)" fill="#f2d7bd"/>
+                  <g id="Grupo_1186088" data-name="Grupo 1186088" transform="translate(87.116 61.138)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186087" data-name="Grupo 1186087">
+                      <g id="Grupo_1186086" data-name="Grupo 1186086" clip-path="url(#clip-path-26)">
+                        <path id="Trazado_1000562" data-name="Trazado 1000562" d="M604.718,440.46,620.3,452.267,630.81,439.8l-23.031-15.408Z" transform="translate(-604.718 -424.391)" fill="#f4ddc7"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000563" data-name="Trazado 1000563" d="M682.171,461.734c-5.605-2.914-14.06-5.62-17.014-2.845-8.374,14.138-4.53,30.749-.115,45.817,1.845,6.292,2.742,7.658,3.189,14.958v33.047c2.176.457,27.8,23.078,68.487,15.5,1.677-3.58-1.213-22.026-1.676-24.49-10.126-53.714-33.533-71.943-52.871-81.989" transform="translate(-565.096 -391.788)" fill="#6fbed8"/>
+                  <g id="Grupo_1186091" data-name="Grupo 1186091" transform="translate(109.778 76.39)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186090" data-name="Grupo 1186090">
+                      <g id="Grupo_1186089" data-name="Grupo 1186089" clip-path="url(#clip-path-27)">
+                        <path id="Trazado_1000564" data-name="Trazado 1000564" d="M782.986,579.575a1.783,1.783,0,0,0-1.572-.258c-1.688.278-2.4-1.7-2.979-2.892-1.531-3.18-3.4-6.222-5.128-9.3-1.58-2.811-3.1-5.649-4.609-8.5-2.23-4.2-4.59-8.434-5.875-13.044-1.308-4.7-1.427-10.254,2.973-13.4a11.231,11.231,0,0,1,9.11-1.629c2.914.581,6.566,1.535,8.663,3.78,1.141,1.222,7.79,4.165,12.395,13.753.138.289,11.115,15.771,10.453,16.862s-4.61,2.478-3.36,4.3c3.161,4.609,9.266,16.553,8.624,22.329-.233,2.094-1.022,4.343-2.911,5.5-2.5,1.529-5.56,1.038-8.268.454-7.321-1.575-13.89-5.23-20.264-9.029-5.461-3.254-10.913-6.912-14.848-11.97a84.235,84.235,0,0,0,10.455,6.145c3.662,1.946,7.544,4.7,11.863,4.614a.252.252,0,0,0,.214-.376c-1.59-2.358-2.636-5.567-4.936-7.352" transform="translate(-762.028 -530.257)" fill="#6fbed8"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186094" data-name="Grupo 1186094" transform="translate(95.11 65.941)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186093" data-name="Grupo 1186093">
+                      <g id="Grupo_1186092" data-name="Grupo 1186092" clip-path="url(#clip-path-28)">
+                        <path id="Trazado_1000565" data-name="Trazado 1000565" d="M665.157,458.895c2.536-2.381,9.121-.725,14.481,1.634-.053-.009-.107-.021-.16-.028-2.94-.467-6.253-1.347-9.192-.427-2.422.758-3.694,2.875-4.546,5.148a39.065,39.065,0,0,0-1.871,7.766c-.369,2.387-.786,4.811-.994,7.218-.6,6.874,1.027,13.8,3.641,20.132,5.239,12.692,14.262,23.04,24.843,31.6-5.392-1.924-10.294-5.171-14.906-8.5-.21-.15-.461.139-.341.341,1.849,3.135,3.033,6.568,4.581,9.848a42.205,42.205,0,0,0,5.972,8.922,100.339,100.339,0,0,0,15.488,14.9c-3.865-.745-7.094-3.5-10.6-5.14a.251.251,0,0,0-.341.341c4.9,8.823,14.4,12.65,24.03,13.682a75.431,75.431,0,0,0,8.132.388,18.876,18.876,0,0,0,7.062-.9,5.407,5.407,0,0,0,3.474-4.382,36.6,36.6,0,0,0,.481-8.47c-.157-5.179-.257-10.368-.634-15.535.448,2.044.878,4.138,1.285,6.3.464,2.464,3.353,20.909,1.676,24.49-40.684,7.577-66.311-15.044-68.487-15.5V519.671c-.447-7.3-1.344-8.667-3.188-14.959-4.416-15.068-8.26-31.679.114-45.817" transform="translate(-660.206 -457.734)" fill="#6fbed8"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000566" data-name="Trazado 1000566" d="M790.192,541.728s-9.646,7.771-2.488,18.431,21.74,36.825,21.74,36.825,8.817,12.636,14.852,8.995,4.954-10.661,1.461-18.544-15.349-33.959-20.912-40.121-11.433-9.467-14.654-5.586" transform="translate(-671.964 -462.256)" fill="#f2d7bd"/>
+                  <g id="Grupo_1186097" data-name="Grupo 1186097" transform="translate(113.096 77.802)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186096" data-name="Grupo 1186096">
+                      <g id="Grupo_1186095" data-name="Grupo 1186095" clip-path="url(#clip-path-29)">
+                        <path id="Trazado_1000567" data-name="Trazado 1000567" d="M790.192,541.728c3.22-3.881,9.088-.579,14.654,5.586,3.982,4.41,11.183,19.026,16.24,29.868-3.885,5.423-11.229,8.089-17.932,8.68-4.834-8.443-11.354-19.607-15.449-25.7-7.159-10.661,2.488-18.431,2.488-18.431" transform="translate(-785.06 -540.058)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000568" data-name="Trazado 1000568" d="M774.963,545.583s-.532,4.454,6.338,16.336c7.075,12.233,10.3,18.633,10.3,18.633s15.53-3.065,23.821-12.975l-17.1-27.064s-11.733-10.9-21.035-1.738c0,0-3.128,4.285-2.32,6.808" transform="translate(-663.207 -458.021)" fill="#6fbed8"/>
+                  <g id="Grupo_1186100" data-name="Grupo 1186100" transform="translate(111.622 78.561)" style="mix-blend-mode: screen;isolation: isolate">
+                    <g id="Grupo_1186099" data-name="Grupo 1186099">
+                      <g id="Grupo_1186098" data-name="Grupo 1186098" clip-path="url(#clip-path-30)">
+                        <path id="Trazado_1000569" data-name="Trazado 1000569" d="M791.951,588.463a.244.244,0,0,1-.265-.147c-.989-2.72-2.68-5.071-3.956-7.65-1.293-2.61-2.7-5.155-4.082-7.721-2.608-4.852-5.548-10.054-6.6-15.529a15.388,15.388,0,0,1,3.127-12.085,13.618,13.618,0,0,0-2.894,2.193s-3.128,4.285-2.32,6.808c0,0-.532,4.454,6.338,16.336,7.075,12.233,10.3,18.633,10.3,18.633a54.1,54.1,0,0,0,16.852-6.931,106.751,106.751,0,0,1-16.5,6.093" transform="translate(-774.83 -545.331)" fill="#6fbed8"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000570" data-name="Trazado 1000570" d="M236.011,209.956a35.443,35.443,0,0,0-14.992-9.236c-11.3-1.687-23.284-.26-32.478,6.956-5.138,4.031-9.174,9.05-9.407,15.837a23.323,23.323,0,0,0,1.755,9.674,34.691,34.691,0,0,0,3.857,6.2,33.745,33.745,0,0,0,15.755,10.8c1.822.586,3.4,1.011,4.309,2.867a55.841,55.841,0,0,1,2.052,5.294c.758,2.051.4,4.721,1.788,6.481,1.633,2.065,6.454-1.335,7.817-2.271l-.446-.109c1.44.265,10.5,3.621,14.345,2.872,6.329-1.229,10.965-9.058,13.08-14.616,5.206-13.673,2.882-30.148-7.434-40.75" transform="translate(-153.316 -171.257)" fill="#f4ddc7"/>
+                  <g id="Grupo_1186105" data-name="Grupo 1186105" transform="translate(25.804 28.824)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186104" data-name="Grupo 1186104">
+                      <g id="Grupo_1186103" data-name="Grupo 1186103" clip-path="url(#clip-path-31)">
+                        <g id="Grupo_1186102" data-name="Grupo 1186102" transform="translate(0 0)">
+                          <g id="Grupo_1186101" data-name="Grupo 1186101" clip-path="url(#clip-path-32)">
+                            <rect id="Rectángulo_456416" data-name="Rectángulo 456416" width="62.984" height="66.509" transform="translate(-0.102 -1.047)" fill="url(#radial-gradient)"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186108" data-name="Grupo 1186108" transform="translate(25.804 28.824)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186107" data-name="Grupo 1186107">
+                      <g id="Grupo_1186106" data-name="Grupo 1186106" clip-path="url(#clip-path-33)">
+                        <path id="Trazado_1000572" data-name="Trazado 1000572" d="M236.011,209.956a35.443,35.443,0,0,0-14.992-9.236c-11.3-1.687-23.284-.26-32.478,6.956-5.138,4.031-9.174,9.05-9.407,15.837a23.323,23.323,0,0,0,1.755,9.674,34.691,34.691,0,0,0,3.857,6.2,33.745,33.745,0,0,0,15.755,10.8l.022.008a22.047,22.047,0,0,1-9.18-12.023.252.252,0,0,1,.208-.337,51.682,51.682,0,0,0,10.642-1.435c-.824-.213-1.64-.46-2.478-.617a.25.25,0,0,1-.051-.477c1.6-.74,3.42-.673,5.075-1.237,1.727-.588,3.467-1.141,5.233-1.6a53.245,53.245,0,0,1,10.774-1.888,30.711,30.711,0,0,1,15.693,3.358,15.456,15.456,0,0,1,5.786,4.951,11.693,11.693,0,0,1,1.592,8.247,44.456,44.456,0,0,1-1.228,5.621c.32-.7.606-1.394.856-2.05,5.206-13.673,2.882-30.148-7.434-40.75" transform="translate(-179.12 -200.081)" fill="#f4ddc7"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186111" data-name="Grupo 1186111" transform="translate(73.83 81.519)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186110" data-name="Grupo 1186110">
+                      <g id="Grupo_1186109" data-name="Grupo 1186109" clip-path="url(#clip-path-34)">
+                        <path id="Trazado_1000573" data-name="Trazado 1000573" d="M513.553,569.515c-.842,2.34-1.43,5.509-.8,7.077a23.321,23.321,0,0,1,1.815-4.534c1.1-2.133,2.734-3.628,3.892-5.654a2.445,2.445,0,0,0-2.186-.422c-1.168.424-2.185,2.031-2.726,3.533" transform="translate(-512.491 -565.862)" fill="#f4ddc7"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186114" data-name="Grupo 1186114" transform="translate(55.726 72.686)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186113" data-name="Grupo 1186113">
+                      <g id="Grupo_1186112" data-name="Grupo 1186112" clip-path="url(#clip-path-35)">
+                        <path id="Trazado_1000574" data-name="Trazado 1000574" d="M386.831,509.672a4,4,0,0,0,.654,2.258,68.554,68.554,0,0,1,2.293-7.382,14.339,14.339,0,0,0-2.234,3.213,5.435,5.435,0,0,0-.713,1.911" transform="translate(-386.824 -504.548)" fill="#f4ddc7"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186117" data-name="Grupo 1186117" transform="translate(55.318 87.285)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186116" data-name="Grupo 1186116">
+                      <g id="Grupo_1186115" data-name="Grupo 1186115" clip-path="url(#clip-path-36)">
+                        <path id="Trazado_1000575" data-name="Trazado 1000575" d="M391.461,609.822l-.087-.023.087.019c-.469-1.265-.646-2.622-1-3.926-1.308,1.6-2.182,3.5-3.627,5a4.1,4.1,0,0,1-2.849,1.266.16.16,0,0,0,.016.022c1.542,1.951,5.925-.972,7.557-2.091-.036-.088-.065-.178-.1-.266" transform="translate(-383.987 -605.892)" fill="#f4ddc7"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000576" data-name="Trazado 1000576" d="M190.9,20.672A45.568,45.568,0,0,0,169.279,1.591C164.22-.458,157.824-.271,152.567.7a20.839,20.839,0,0,0-3.675,1.055c-.259.074-.519.142-.771.223-.933.309-1.832.646-2.735,1.034-.437.187-3.486,2.179-2.124.8A13.1,13.1,0,0,0,145.589,1.5c.079-.138.153-.629-.142-.59-3.679.491-7.5,3.535-9.709,6.857a12.214,12.214,0,0,0-8.359.751c-.22.112-.466.722-.124.835,1.322.441,2.728.579,4.051.984-10.99,4.825-17.066,18.129-20.289,28.951-3.983,13.375-5.01,29.544,6.275,39.89.355.325.713-.381.742-.641a15.47,15.47,0,0,0-.419-3.947c1.674,2.639,4.019,5.009,6.9,5.921.306.1.464-.485.35-.687-1.885-3.317-4.17-5.729-5.264-9.529-.024-.1-.045-.193-.069-.288.158.238.32.475.488.7,2.946,4.023,8.56,4.425,13.132,4.558.326.01.584-.762.3-.941a19.548,19.548,0,0,1-7.738-10.926,16.165,16.165,0,0,0,10.535,2.709c.305-.044.52-.7.2-.838a25.9,25.9,0,0,1-6.21-3.306c3.321,1.419,6.793,1.353,10.487.565,5.837-1.245,11.7-2.946,17.476-4.463q.426-.024.859-.024c.343-.1.687-.2,1.034-.284a.355.355,0,0,0-.058-.333c-1.226-1.01-3.47-1.456-4.968-1.978-.446-.156-.888-.332-1.331-.507a60.065,60.065,0,0,1,9.995,2.367,61.826,61.826,0,0,1,8.5,1.985c.2-.265.4-.54.58-.762a38.779,38.779,0,0,1-5.18-4.873,18.65,18.65,0,0,1-4.456-7.356c-.924-3.489,1.9-8,5.9-7.249,4.625.874,7.162,6.679,8.62,10.575.768,2.046,2.309,5.052,1.438,7.258a1.579,1.579,0,0,1-1.479.824,4.922,4.922,0,0,0,.876,1.085c1.842,1.854,4.425,3.036,6.373,4.823.938.861,1.655,1.03,2.19.716.112.047.4-.332.425-.4a3.905,3.905,0,0,0,.58-1.366c2.628-6.211,5.318-25.712,5.61-29.195a13.2,13.2,0,0,0-1.542-8.26,16.254,16.254,0,0,0-3.237-4c.5.166,1,.323,1.507.449.4.1.616-.625.461-.9" transform="translate(-92.659 0.003)" fill="#9b9b9b"/>
+                  <g id="Grupo_1186120" data-name="Grupo 1186120" transform="translate(16.909 0)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186119" data-name="Grupo 1186119">
+                      <g id="Grupo_1186118" data-name="Grupo 1186118" clip-path="url(#clip-path-37)">
+                        <path id="Trazado_1000577" data-name="Trazado 1000577" d="M198.708,20.672A45.568,45.568,0,0,0,177.087,1.591C172.027-.458,165.632-.271,160.374.7A20.839,20.839,0,0,0,156.7,1.755c-.259.074-.519.142-.771.223-.933.309-1.832.646-2.735,1.034-.437.187-3.486,2.179-2.124.8A13.1,13.1,0,0,0,153.4,1.5c.079-.138.153-.629-.142-.59-3.679.491-7.5,3.535-9.709,6.857a12.214,12.214,0,0,0-8.359.751c-.22.112-.466.722-.124.835,1.322.441,2.728.579,4.051.984a25.387,25.387,0,0,0-7.783,5.469c3.092-1.994,6.7-4.018,10.427-3.491a.25.25,0,0,1,.05.477c-4.224,2.316-7.023,7.077-8.3,11.717,2.4-3.89,5.373-7.605,9.876-9.035.137-.042.34.036.337.208-.059,2.723-1.566,5.49-2.861,7.818a48.142,48.142,0,0,1-2.682,4.248,20.663,20.663,0,0,1,10.974-4.819c4.072-.514,9-.559,12.4,2.1a.251.251,0,0,1-.13.442,36.548,36.548,0,0,0-11.244,2.372,17.489,17.489,0,0,0-6.395,4.1c4.659-2.672,10.342-3.8,15.362-1.762a.251.251,0,0,1-.01.46,38.2,38.2,0,0,0-8.268,3.293,30.381,30.381,0,0,1,6.047,3.041,66.769,66.769,0,0,1,5.545,4.012,14.32,14.32,0,0,1,3.97,4.356.249.249,0,0,1-.141.322c-1.813.772-4.1-.332-5.914-.623a31.792,31.792,0,0,0-6.464-.429A53.052,53.052,0,0,0,159.6,46.9c1.842.581,3.86,1.035,5.414,2.241a.253.253,0,0,1-.13.444,26.478,26.478,0,0,1-8.886.24,46.521,46.521,0,0,1-8.006-1.471,35.146,35.146,0,0,1-9.269-4.262,40.853,40.853,0,0,0,5.709,5.671,43.925,43.925,0,0,0,6.277,4.311,13.617,13.617,0,0,0,7.113,2.178c.313.006.377.482.05.5-2.955-.046-5.916.94-8.842,1.3A27.613,27.613,0,0,1,140,58.018c-3.121-.654-6.689-2.3-8.562-4.991a17.556,17.556,0,0,0,2.555,7.388c.139.228-.129.54-.354.344a19.091,19.091,0,0,1-5.523-8.826,25.291,25.291,0,0,0,.268,5.873,24.677,24.677,0,0,0,8.129,14.47.25.25,0,0,1-.257.422c-7.467-2.456-12.1-9.347-14.143-16.816a29.844,29.844,0,0,0,3.675,16.429c.153.272-.2.563-.4.3a33.166,33.166,0,0,1-3.265-5.073,34.893,34.893,0,0,1-1.614-4.886,19.2,19.2,0,0,0,2.953,11.008.25.25,0,0,1-.355.343,20.037,20.037,0,0,1-5.734-7.467,26.773,26.773,0,0,0,7.724,12.65c.355.325.713-.381.742-.641a15.471,15.471,0,0,0-.419-3.947c1.674,2.639,4.019,5.009,6.9,5.921.306.1.464-.485.35-.687-1.885-3.317-4.17-5.729-5.264-9.529-.024-.1-.045-.193-.069-.288.158.238.32.475.488.7,2.946,4.023,8.56,4.425,13.132,4.558.326.01.584-.762.3-.941a19.548,19.548,0,0,1-7.738-10.926,16.165,16.165,0,0,0,10.535,2.709c.305-.044.52-.7.2-.838a25.9,25.9,0,0,1-6.21-3.306c3.321,1.419,6.793,1.353,10.487.565,5.837-1.245,11.7-2.946,17.476-4.463q.426-.024.859-.024c.343-.1.687-.2,1.034-.284a.355.355,0,0,0-.058-.333c-1.226-1.01-3.47-1.456-4.968-1.978-.446-.156-.888-.332-1.331-.507a60.065,60.065,0,0,1,9.995,2.367,61.828,61.828,0,0,1,8.5,1.985c.2-.265.4-.54.58-.762a38.778,38.778,0,0,1-5.18-4.873,18.65,18.65,0,0,1-4.456-7.356c-.924-3.489,1.9-8,5.9-7.249,4.625.874,7.162,6.679,8.62,10.575.768,2.046,2.309,5.052,1.438,7.258a1.579,1.579,0,0,1-1.479.824,4.922,4.922,0,0,0,.876,1.085c1.842,1.854,4.425,3.036,6.373,4.823.938.861,1.655,1.03,2.19.716.112.047.4-.332.425-.4a3.906,3.906,0,0,0,.58-1.366c2.628-6.211,5.318-25.712,5.61-29.195a13.2,13.2,0,0,0-1.542-8.26,16.255,16.255,0,0,0-3.237-4c.5.166,1,.323,1.507.449.4.1.616-.625.461-.9" transform="translate(-117.375 0.002)" fill="#9b9b9b"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186123" data-name="Grupo 1186123" transform="translate(36.815 0)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186122" data-name="Grupo 1186122">
+                      <g id="Grupo_1186121" data-name="Grupo 1186121" clip-path="url(#clip-path-38)">
+                        <path id="Trazado_1000578" data-name="Trazado 1000578" d="M316.976,20.672A45.568,45.568,0,0,0,295.354,1.591C290.295-.458,283.9-.271,278.642.7a20.839,20.839,0,0,0-3.675,1.055c-.259.074-.519.142-.771.223-.933.309-1.832.646-2.735,1.034-.437.187-3.486,2.179-2.124.8A13.1,13.1,0,0,0,271.663,1.5c.079-.138.153-.629-.142-.59-3.679.491-7.5,3.535-9.709,6.857a13.19,13.19,0,0,0-6.265-.036,13,13,0,0,1,6.15,2.038,15.544,15.544,0,0,1,4.749-5.841c.191-.144.494.075.376.3a12.617,12.617,0,0,0-1.351,4.356,28.408,28.408,0,0,1,5.019-2.572A44.29,44.29,0,0,1,280.085,3a46.675,46.675,0,0,1,9.282-.575,17.532,17.532,0,0,1,7.679,1.733.25.25,0,0,1-.14.473,8.291,8.291,0,0,0-4.755,1.406,16.712,16.712,0,0,1,3.25.179,18.057,18.057,0,0,1,5.63,1.915,35.164,35.164,0,0,1,9.848,8.136c.187.23-.132.495-.354.343-5.109-3.507-11.754-4.657-18.024-3.793a24.034,24.034,0,0,1,5.743,1.682,48.657,48.657,0,0,1,11.341,7.453c.211.176,0,.564-.256.423a14.547,14.547,0,0,0-7.787-1.466,16.184,16.184,0,0,1,7.465,4.535c.185.2-.092.45-.3.376-2.845-1.008-5.869-1.808-8.878-1.305,8.36,2.994,10.929,14.907,9.309,22.7a.251.251,0,0,1-.446.109c-2.049-3.265-3.624-7.034-6.877-9.328-3.115-2.2-7.5-3.6-10.99-1.36a8.869,8.869,0,0,0-3.84,8.949,15.745,15.745,0,0,0,2.351,6.338c.838,1.265,2.022,2.344,2.5,3.817a.252.252,0,0,1-.207.337,46.827,46.827,0,0,0-4.684.373c.964.266,1.921.548,2.87.856a61.829,61.829,0,0,1,8.5,1.985c.2-.265.4-.54.58-.762a38.781,38.781,0,0,1-5.18-4.873,18.65,18.65,0,0,1-4.456-7.356c-.924-3.489,1.9-8,5.9-7.249,4.625.874,7.162,6.679,8.62,10.575.768,2.046,2.309,5.052,1.438,7.258a1.579,1.579,0,0,1-1.479.824,4.92,4.92,0,0,0,.876,1.085c1.841,1.854,4.425,3.036,6.373,4.823.938.861,1.655,1.03,2.19.716.112.047.4-.332.425-.4a3.906,3.906,0,0,0,.58-1.366c2.628-6.211,5.318-25.712,5.61-29.195a13.2,13.2,0,0,0-1.542-8.26,16.255,16.255,0,0,0-3.237-4c.5.166,1,.323,1.507.449.4.1.616-.625.461-.9" transform="translate(-255.548 0.002)" fill="#9b9b9b"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000579" data-name="Trazado 1000579" d="M302.094,441.959A17.63,17.63,0,0,0,296.22,446a83.729,83.729,0,0,0-5.97,6.2,1.052,1.052,0,0,0-.181.344c-.029-.009-.057-.006-.087-.015-.21-.065-.3.343-.193.465,1.041,1.179,2.308,1.451,3.175-.128,2.389-4.355,4.7-7.592,9.151-10.085.278-.157.4-1.021-.024-.816" transform="translate(-248.004 -378.263)" fill="#5b5b5b"/>
+                  <path id="Trazado_1000580" data-name="Trazado 1000580" d="M515.253,574.94c1.067-2.154,2.494-4.1,3.626-6.224a.371.371,0,0,0-.194-.021c-1.4.2-2.453,1.765-3.221,3.552a45.887,45.887,0,0,0-1.555,6.5,19,19,0,0,1,1.345-3.8" transform="translate(-439.874 -486.764)" fill="#fff"/>
+                  <g id="Grupo_1186126" data-name="Grupo 1186126" transform="translate(75.768 43.103)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186125" data-name="Grupo 1186125">
+                      <g id="Grupo_1186124" data-name="Grupo 1186124" clip-path="url(#clip-path-39)">
+                        <path id="Trazado_1000581" data-name="Trazado 1000581" d="M529.936,308.227c-.11-.107-.209-.223-.312-.336a7.319,7.319,0,0,0-.606-5.513c-.046-.079-.116.069-.093.121a8.364,8.364,0,0,1,.438,5.112,23.838,23.838,0,0,1-1.6-2.228,10.263,10.263,0,0,1-1.317-2.9c-.218-.783-.6-2.392-.128-3.172.03-.05,0-.148-.061-.079-.42.514-.288,1.215-.3,1.838a7.745,7.745,0,0,0,.683,3.217c1.029,2.26,2.769,5.155,5.256,5.971.134.044.2-.224.125-.3-.585-.642-1.438-1.106-2.076-1.727" transform="translate(-525.942 -299.204)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000582" data-name="Trazado 1000582" d="M117.763,1830.764c.974-1.8,3.753-4.155,12.459-7.018,2.338-.769,4.766-1.521,7.181-2.228,10.73-3.162,11.695-5.552,11.695-5.552l20.4,1.008a50.2,50.2,0,0,1,2.312,18.167c-1.694.967-4.744,1.6-10.146,1.562-23.8,1.547-44.488.391-44.487-3.773a4.527,4.527,0,0,1,.585-2.166" transform="translate(-100.297 -1554.356)" fill="#a56a63"/>
+                  <g id="Grupo_1186129" data-name="Grupo 1186129" transform="translate(45.222 261.61)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186128" data-name="Grupo 1186128">
+                      <g id="Grupo_1186127" data-name="Grupo 1186127" clip-path="url(#clip-path-40)">
+                        <path id="Trazado_1000583" data-name="Trazado 1000583" d="M333.194,1822.754a47.885,47.885,0,0,1-8.88-.385,27.578,27.578,0,0,1-10.407-3.85c3.174-1.557,3.579-2.555,3.579-2.555l20.4,1.008a40.623,40.623,0,0,1,1.44,5.43,40.67,40.67,0,0,1-6.133.351" transform="translate(-313.907 -1815.965)" fill="#a56a63"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000584" data-name="Trazado 1000584" d="M118.049,1915.469c2.608,2.3,6.539,2.813,9.876,3.063,2.069.155,4.144.175,6.21.328,3.091.228,6.167.543,9.265.681a150.656,150.656,0,0,0,19.006-.107,33.527,33.527,0,0,0,8.048-1.391,7.4,7.4,0,0,0,1.407-.628c0,.968-.01,1.935-.049,2.895-1.694.967-4.744,1.6-10.146,1.562-23.8,1.547-44.488.391-44.487-3.773a4.527,4.527,0,0,1,.585-2.166,4.751,4.751,0,0,1,.284-.464" transform="translate(-100.298 -1639.525)" fill="#6e4742"/>
+                  <path id="Trazado_1000585" data-name="Trazado 1000585" d="M301.564,1117.059s22.7,11.963,29.168,33.927l-15.265,1.555H276.4l2.062,4.307-2.062,5.167,7.675,61.048s-16.043,3.008-26.076-3.428c0,0-9.155-66.844-9.4-78.791s9.209-18.418,17.174-19.166,12.4-1.351,12.4-1.351l11.125-2.47Z" transform="translate(-212.779 -956.134)" fill="#9b8c7b"/>
+                  <g id="Grupo_1186132" data-name="Grupo 1186132" transform="translate(35.812 160.925)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186131" data-name="Grupo 1186131">
+                      <g id="Grupo_1186130" data-name="Grupo 1186130" clip-path="url(#clip-path-41)">
+                        <path id="Trazado_1000586" data-name="Trazado 1000586" d="M258.2,1124.053c-2.833,2.721-5.532,5.57-6.3,9.572-1.422,7.395-.256,15.036.578,22.433a222.074,222.074,0,0,0,3.632,22.8,165.391,165.391,0,0,0,6.617,22.365,79.825,79.825,0,0,0,3.543,8.291,21.362,21.362,0,0,0,4.972,6.923.251.251,0,0,0,.351,0,12.287,12.287,0,0,0,2.033-5.128c.482-2.29.959-4.612,1.308-6.926a93.07,93.07,0,0,0,.846-16.2,143.351,143.351,0,0,0-1.046-16.265c-.355-2.54-.8-5.064-1.14-7.608a27.737,27.737,0,0,0-1.273-6.024.253.253,0,0,0-.415-.11c-2.908,2.314-5.941,4.465-8.794,6.847,3.355-4.873,6.58-9.964,11.136-13.8a.249.249,0,0,0,0-.352c-4.8-5.4-10.724-9.766-15.129-15.518,2.845,1.765,5.684,3.537,8.473,5.388,1.579,1.047,3.173,2.09,4.694,3.22,1.163.862,2.24,1.847,3.441,2.657,4.8,3.233,11.411,1.216,16.726.657,2.591-.273,5.427-.063,7.9-.966.274-.1,1.379-.35,1.522-.74a3.5,3.5,0,0,0-.267-1.788c-.709-2.073-2.589-3.7-4.017-5.28a52.014,52.014,0,0,1-4.888-6.1c5.279,3.815,10.268,8.076,14.007,13.463.126.183.489.143.464-.127a32.727,32.727,0,0,0-4.892-13.565,52.027,52.027,0,0,0-9.147-11.335,16.446,16.446,0,0,0-4.037-2.933l.205-.046,12.265-.8s22.7,11.963,29.168,33.927l-15.265,1.555H276.4l2.062,4.307-2.062,5.167,7.675,61.048s-16.043,3.008-26.076-3.428c0,0-9.155-66.844-9.4-78.79a18.153,18.153,0,0,1,9.6-16.79" transform="translate(-248.592 -1117.059)" fill="#cdbaa3"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000587" data-name="Trazado 1000587" d="M565.818,1130.8c-2.608-6.523-6.317-12.736-11.855-17.11,2.784-.44,12.213-1.477,17.822,3.432,6.637,5.807,19.429,17.958,20.327,31.694l-17.778,1.326c-1.123-6.3-6.139-13.4-8.515-19.342" transform="translate(-474.159 -952.908)" fill="#cdbaa3"/>
+                  <g id="Grupo_1186135" data-name="Grupo 1186135" transform="translate(81.936 162.527)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186134" data-name="Grupo 1186134">
+                      <g id="Grupo_1186133" data-name="Grupo 1186133" clip-path="url(#clip-path-42)">
+                        <path id="Trazado_1000588" data-name="Trazado 1000588" d="M576.485,1136.251c1.951,2.851,3.718,5.851,5.521,8.8,1.664,2.722,3.117,5.631,4.887,8.28a2.75,2.75,0,0,0,3.946.984c2-.979,2.389-2.579,2.163-4.706a20.454,20.454,0,0,0-4.7-10.327c5.488,4.956,8.713,11.88,11.777,18.552.111.242.453.1.464-.125.356-7.18-4.21-14.148-8.467-19.563a57.893,57.893,0,0,0-8.1-8.253c-.656-.56-1.321-1.143-2.009-1.707a12.923,12.923,0,0,1,2.483,1.689c6.637,5.807,19.43,17.958,20.327,31.694L587,1162.891c-1.123-6.3-6.139-13.4-8.515-19.342a42.879,42.879,0,0,0-9.724-15.249,37,37,0,0,1,7.726,7.951" transform="translate(-568.759 -1128.183)" fill="#cdbaa3"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000589" data-name="Trazado 1000589" d="M371.009,493.746s-1.755,4.546-1.589,7.548c0,0,3.215-5.226,5.14-5.641,0,0-2.1-.042-4.3,3.152a18.254,18.254,0,0,1,.747-5.06" transform="translate(-316.192 -422.616)" fill="#59584f"/>
+                  <path id="Trazado_1000590" data-name="Trazado 1000590" d="M812.44,917.234s36.314-16.054,39.086-10.226,2.014,13.4-3.671,15.445-32.1,2.414-32.1,2.414Z" transform="translate(-695.399 -775.253)" fill="#f2d7bd"/>
+                  <path id="Trazado_1000591" data-name="Trazado 1000591" d="M696.265,911.25a3.456,3.456,0,0,0,1.664,2.8c4.286,4.774,12.455,6.9,18.463,4.425,2.67-1.1,3.128-5.052,2.9-7.535a15.023,15.023,0,0,0-3.021-7.276c-2.208-4.4-7.679-7.712-11.449-10.015-1.5-.916-2.119.591-1.7,1.928.907,2.888,4.211,4.245,6.128,6.527-1.675-.16-3.374-.127-5.028-.4-1.884-.309-4.92-1.128-5.835-2.712-.624-1.081-2.312-.605-2.764.376-.657,1.428.046,2.349.973,3.252-.574,1.082-.015,2.681.621,3.823-.006.01-.012.017-.019.028a3.445,3.445,0,0,0-.263,2.332c-.531.359-.7,2.08-.672,2.443" transform="translate(-595.192 -764.672)" fill="#f2d7bd"/>
+                  <g id="Grupo_1186138" data-name="Grupo 1186138" transform="translate(100.618 137.188)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186137" data-name="Grupo 1186137">
+                      <g id="Grupo_1186136" data-name="Grupo 1186136" clip-path="url(#clip-path-43)">
+                        <path id="Trazado_1000592" data-name="Trazado 1000592" d="M698.5,952.307c1.989,1.8,5.041,2.889,7.57,3.659.029.008.071.094.022.086-2.5-.468-6.091-1.465-7.63-3.7-.028-.039-.007-.089.038-.049" transform="translate(-698.445 -952.292)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186141" data-name="Grupo 1186141" transform="translate(101.339 140.585)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186140" data-name="Grupo 1186140">
+                      <g id="Grupo_1186139" data-name="Grupo 1186139" clip-path="url(#clip-path-44)">
+                        <path id="Trazado_1000593" data-name="Trazado 1000593" d="M703.485,975.868l.064.006c.043,0,.123.119.057.126a11.546,11.546,0,0,0,1.545,1.548c.477.32.935.66,1.434.953a17.032,17.032,0,0,0,3.823,1.616c.039.01.089.12.027.107a13.35,13.35,0,0,1-4.276-1.528,5.729,5.729,0,0,1-2.709-2.763c-.008-.027-.006-.067.034-.064" transform="translate(-703.447 -975.868)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186144" data-name="Grupo 1186144" transform="translate(101.555 143.531)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186143" data-name="Grupo 1186143">
+                      <g id="Grupo_1186142" data-name="Grupo 1186142" clip-path="url(#clip-path-45)">
+                        <path id="Trazado_1000594" data-name="Trazado 1000594" d="M705.068,996.336c.025-.042.083.029.079.06-.166,1.317,2.066,2.655,2.974,3.278a14.491,14.491,0,0,0,3.633,1.853c.049.016.118.162.036.144a13.083,13.083,0,0,1-4.835-2.4c-.638-.484-2.489-1.894-1.887-2.933" transform="translate(-704.949 -996.323)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186147" data-name="Grupo 1186147" transform="translate(100.175 133.707)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186146" data-name="Grupo 1186146">
+                      <g id="Grupo_1186145" data-name="Grupo 1186145" clip-path="url(#clip-path-46)">
+                        <path id="Trazado_1000595" data-name="Trazado 1000595" d="M696.937,938.56a3.445,3.445,0,0,1,.263-2.332c.007-.011.013-.019.019-.028-.636-1.142-1.2-2.741-.621-3.823-.926-.9-1.63-1.824-.973-3.252.452-.981,2.14-1.457,2.764-.376.012.022.029.041.042.062-1.151-.047-1.007,1.2-.652,2.065.917,2.261,3.118,3.468,5.406,4.344a31.455,31.455,0,0,1-5.487-1.627c-.193-.079-.339.142-.307.307.383,1.979,1.965,3.372,3.814,4.421a7.531,7.531,0,0,0-2.828-.838.255.255,0,0,0-.248.249c-.152,1.765,1.3,3.145,2.625,4.085.148.1.306.2.457.3a8.262,8.262,0,0,0-2.337-.481.25.25,0,0,0-.241.314c1.82,4.811,8.588,6.872,13.281,6.416,2.8-.272,5.437-1.282,7.085-3.656a4.862,4.862,0,0,1-2.609,3.523c-6.008,2.479-14.178.348-18.463-4.425a3.457,3.457,0,0,1-1.664-2.8c-.029-.364.142-2.084.672-2.443" transform="translate(-695.367 -928.132)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Grupo_1186150" data-name="Grupo 1186150" transform="translate(107.805 128.706)" style="mix-blend-mode: multiply;isolation: isolate">
+                    <g id="Grupo_1186149" data-name="Grupo 1186149">
+                      <g id="Grupo_1186148" data-name="Grupo 1186148" clip-path="url(#clip-path-47)">
+                        <path id="Trazado_1000596" data-name="Trazado 1000596" d="M749.552,894.215c.009,1.586,1.546,3.06,2.521,4.165a25.8,25.8,0,0,0,4.385,4.016c-.661-.1-1.317-.21-1.965-.36-1.927-2.216-5.142-3.578-6.033-6.422-.376-1.2.09-2.542,1.283-2.126a1.1,1.1,0,0,0-.193.726" transform="translate(-748.334 -893.411)" fill="#f2d7bd"/>
+                      </g>
+                    </g>
+                  </g>
+                  <path id="Trazado_1000597" data-name="Trazado 1000597" d="M468.726,418.046s5.591,1.054,4.469,2.627c-1.048,1.471-4.469-2.627-4.469-2.627" transform="translate(-401.201 -357.822)" fill="#a3cce2"/>
+                  <path id="Trazado_1000598" data-name="Trazado 1000598" d="M491.782,452.844s4.4.83,3.513,2.066c-.823,1.156-3.513-2.066-3.513-2.066" transform="translate(-420.936 -387.607)" fill="#a3cce2"/>
+                  <path id="Trazado_1000599" data-name="Trazado 1000599" d="M454.763,433.229s3.21.6,2.566,1.507c-.6.845-2.566-1.507-2.566-1.507" transform="translate(-389.25 -370.817)" fill="#a3cce2"/>
+                  <path id="Trazado_1000600" data-name="Trazado 1000600" d="M456.6,835.854l-6.674-8.083-6.56,4.434L438.807,821.2l-8.394,7.949-3.99-9.045,4.623,6.245,9.038-8.266,3.281,12.445,7.544-5.311Z" transform="translate(-364.992 -700.227)" fill="#d4a59b"/>
+                  <path id="Trazado_1000601" data-name="Trazado 1000601" d="M492.088,932.278l-6.518-3.2-2.879,4.669-6.012-5.652-3.035,7.409-5.1-4.575,4.7,2.627,3.354-7.793,5.615,6.924,3.252-5.5Z" transform="translate(-401.049 -792.392)" fill="#d4a59b"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
