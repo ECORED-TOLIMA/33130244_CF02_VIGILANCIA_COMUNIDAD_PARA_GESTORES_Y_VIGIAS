@@ -1,1 +1,1 @@
-module.exports = 'ECOBASE_SENA'
+module.exports = 'Vigilancia de situaciones de interés en salud pública'

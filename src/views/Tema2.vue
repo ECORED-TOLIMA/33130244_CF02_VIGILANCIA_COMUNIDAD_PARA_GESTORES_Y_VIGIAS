@@ -7,6 +7,12 @@
         span 2
       h1 Titulo_de_primer_nivel
 
+    .row
+      .col-auto
+        .boton.color-acento-botones
+          <span>1994</span>
+      .col
+        p Anteponer la palabra persona. Surgen "personas con discapacidad
 
 </template>
 
