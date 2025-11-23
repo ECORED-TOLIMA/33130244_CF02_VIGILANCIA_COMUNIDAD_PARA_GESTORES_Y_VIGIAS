@@ -155,7 +155,7 @@
 
     p.mb-4 Los síndromes son un conjunto de síntomas (o signos) que pueden constituir una señal de un evento de interés en salud pública y se representan en la siguiente figura:
 
-    .row.justify-content-center(data-aos="fade-left")
+    .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 4.
@@ -237,7 +237,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/img-15.svg', alt='Imagen decorativa')
             h4.text-center.mb-4 Acciones colectivas
-            p.mb-0 Notificar los casos sospechosos, realizar la vigilancia epidemiológica, implementar campañas de prevención, protocolos de aislamiento y control, y vacunación donde se requiera. (Instituto Nacional de Salud, 2023)
+            p.mb-0 Notificar los casos sospechosos, realizar la vigilancia epidemiológica, implementar campañas de prevención, protocolos de aislamiento y control, y vacunación donde se requiera. (Instituto Nacional de Salud, 2023).
 
     Separador
 
@@ -571,7 +571,7 @@
             p.mb-0 #[b Complicaciones]
             p Falla hepática, hemorragias, muerte.	
             p.mb-0 #[b Acciones comunitarias de prevención]
-            p Vacunación preventiva, control de Aedes aegypti, uso de protección personal contra mosquitos.
+            p Vacunación preventiva, control de #[em Aedes aegypti], uso de protección personal contra mosquitos.
           div(x="77.5%" y="13%" numero="+")
             h4 Dengue
             p.mb-0 #[b Síntomas principales]

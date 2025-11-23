@@ -95,7 +95,7 @@ export default {
             { id: 'a', texto: 'Dengue.', esCorrecta: false },
             { id: 'b', texto: 'Tuberculosis pulmonar.', esCorrecta: true },
             { id: 'c', texto: 'Varicela.', esCorrecta: false },
-            { id: 'd', texto: 'Rabia', esCorrecta: false },
+            { id: 'd', texto: 'Rabia.', esCorrecta: false },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento del componente.',
@@ -337,7 +337,7 @@ export default {
         {
           id: 11,
           texto:
-            'De acuerdo las situaciones de interés en salud pública, ¿a qué corresponde los vertederos de basura?',
+            'De acuerdo a las situaciones de interés en salud pública, ¿a qué corresponde los vertederos de basura?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
