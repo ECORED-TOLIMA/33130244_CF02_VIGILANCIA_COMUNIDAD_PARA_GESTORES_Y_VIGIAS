@@ -604,7 +604,7 @@
         p Para finalizar, en la siguiente tabla se describe la situación de interés en salud pública reportada por los vigías y gestores comunitarios de la comunidad, los posibles eventos de interés en salud pública o enfermedades, así como los riesgos a los que se expone la población y acciones que se procura realizar para evitar la propagación de las enfermedades:
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-      h5 Tabla 2.
+      h5 Tabla 1.
       span  #[i Listado de situaciones de interés en salud pública específicas para estar atentos y reportar]
     .tabla-a.color-acento-contenido.mb-5
       table
