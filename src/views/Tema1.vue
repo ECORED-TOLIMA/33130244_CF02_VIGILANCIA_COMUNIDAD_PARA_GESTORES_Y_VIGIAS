@@ -26,7 +26,7 @@
           span <em>Situaciones de interés en salud pública</em>    
 
         .row.justify-content-center
-          .col-lg-12.col-10.mb-4
+          .col-lg-12.col-12.mb-4
             figure.desktop
               img(src='@/assets/curso/temas/tema1/figura-1-1vv.svg', alt='Figura 1 que representa la estructura procedimental de la Estrategia Vigilancia Basada en Comunidad (VBC); la cual parte de unos factores y finaliza con la ruta de atención integral, teniendo en cuenta que se lleva a cabo una serie de verificaciones y situaciones presentes.')
               figcaption Fuente: Instituto Nacional de Salud (2025)
@@ -39,11 +39,11 @@
       h2 1.1. Los factores ambientales, fenómenos naturales y sociales 
 
     .row.justify-content-center.mb-4(data-aos="fade-left")
-      .col-lg-7.order-2
+      .col-lg-6.order-2
         .tarjeta.tarjeta--BGC01.p-4.mb-4
           p.mb-0 Estos factores y fenómenos corresponden a situaciones que se relacionan con el ambiente (contaminación y exposición ambiental en aire, suelo, agua, clima y antrópico) contribuyendo a la generación de casos, eventos y situaciones de interés en salud pública (Figura 2).
         p.mb-0 Las situaciones como la contaminación del agua, el manejo inadecuado de basuras, la presencia de humo tóxico o la exposición a químicos peligrosos, representan factores de riesgo para la salud colectiva. Estos problemas ambientales pueden desencadenar brotes de enfermedades diarreicas, respiratorias o intoxicaciones. El rol comunitario consiste en reportar oportunamente estos eventos para que las autoridades implementen medidas correctivas (Instituto Nacional de Salud, 2023).
-      .col-lg-5.col-md-6.col-8.order-1.mb-lg-0.mb-4
+      .col-lg-6.col-md-6.col-8.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img-03.png', alt='Imagen decorativa')
 
@@ -53,7 +53,7 @@
           h5 Figura 2.
           span <em>Factores ambientales, fenómenos naturales y sociales</em>    
         .row.justify-content-center
-          .col-lg-12.col-10.mb-4
+          .col-lg-12.col-12.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/figura-2-1vv.svg', alt='Figura 2 que relaciona un proceso conceptual que explica los principales factores ambientales que afectan la salud, en los cuales se destaca el agua, aire, clima, suelo y lo que cada uno representa y las acciones que se desprenden de estos.')
               figcaption Fuente: Instituto Nacional de Salud. 2025
@@ -121,7 +121,7 @@
           h5 Figura 3.
           span <em>Situaciones con animales</em>    
         .row.justify-content-center
-          .col-lg-12.col-10.mb-4
+          .col-lg-12.col-12.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/figura-3-1vv.svg', alt='Figura 3 que relaciona situaciones en animales relacionadas con riesgos para la salud. Incluye animales de compañía, animales de producción y animales silvestres; también resalta acciones individuales y colectivas para prevenir y responder a estos eventos.')
               figcaption Fuente: Instituto Nacional de Salud (2025)
@@ -162,7 +162,7 @@
           span <em>Síndromes febriles</em>    
 
         .row.justify-content-center
-          .col-lg-12.col-10.mb-4
+          .col-lg-12.col-12.mb-4
             figure.desktop
               img(src='@/assets/curso/temas/tema1/figura-4-1vv.svg', alt='Figura 4 que relaciona cómo, a partir de un síndrome febril con diferentes manifestaciones (respiratorias, cutáneas, digestivas, neurológicas o con ictericia), se aplican acciones individuales: atención médica, aislamiento y notificación y acciones colectivas: vigilancia epidemiológica, prevención, control y vacunación.')
               figcaption Fuente: Rivero, Dacosta, Cervantes & Hernández (2023).
@@ -258,7 +258,7 @@
           span <em>Casos específicos</em>    
 
         .row.justify-content-center
-          .col-lg-12.col-10.mb-4
+          .col-lg-12.col-12.mb-4
             figure.desktop
               img(src='@/assets/curso/temas/tema1/figura-5-1vv.svg', alt='Figura 5 que relaciona un esquema que representa casos específicos en salud pública, como desnutrición, COVID-19, complicaciones en el embarazo y malaria. A partir de estos, se muestran intervenciones individuales: acceso a servicios de salud, cumplimiento de tratamientos, autocuidado y prácticas preventivas; así como acciones colectivas enfocadas en la atención oportuna, educación en hábitos protectores, control prenatal, uso de toldillos, control de mosquitos, higiene y aislamiento según el caso.')
               figcaption Fuente: Instituto Nacional de Salud (2025)
@@ -299,19 +299,19 @@
 
     .fondo2-t2.px-md-5.px-4.py-4
       .row.justify-content-center.mb-4
-        .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
+        .col-lg-4.col-8.mb-lg-0.mb-5(data-aos="fade-right")
           .tarjeta-avatar
             img(src='@/assets/curso/temas/tema1/img-19.svg' alt="Imagen decorativa")
             .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#FFDD8B;")
               h4.text-center.mt-5(style="color:#12263F") Bajo peso para la talla
               p.text-center.mb-0(style="color:#12263F") Desnutrición aguda.
-        .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
+        .col-lg-4.col-8.mb-lg-0.mb-5(data-aos="fade-left")
           .tarjeta-avatar
             img(src='@/assets/curso/temas/tema1/img-20.svg' alt="Imagen decorativa")
             .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#FFDD8B;")
               h4.text-center.mt-5(style="color:#12263F") Bajo peso para la edad
               p.text-center.mb-0(style="color:#12263F") Desnutrición global.
-        .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
+        .col-lg-4.col-8.mb-lg-0.mb-5(data-aos="fade-right")
           .tarjeta-avatar
             img(src='@/assets/curso/temas/tema1/img-21.svg' alt="Imagen decorativa")
             .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#FFDD8B;")
@@ -326,13 +326,13 @@
           p La desnutrición en los menores de 5 años tiene efectos inmediatos y a largo plazo que comprometen no solo la salud individual, sino también el desarrollo social y económico de la comunidad. Entre los principales impactos se encuentran: 
           ul.lista-ul--color
             li.d-flex.align-items-start
-              i.fas.fa-user
+              <i class="fa-solid fa-circle-user bg-color-4"></i>
               | Mayor susceptibilidad a enfermedades, ya que el sistema inmune se encuentra debilitado. 
             li.d-flex.align-items-start
-              i.fas.fa-user
+              <i class="fa-solid fa-circle-user bg-color-4"></i>
               | Limitaciones en el aprendizaje y menor capacidad de rendimiento escolar y laboral en etapas posteriores de la vida.
             li.d-flex.align-items-start
-              i.fas.fa-user
+              <i class="fa-solid fa-circle-user bg-color-4"></i>
               | En la niñez temprana, los efectos son más severos porque los órganos vitales como el corazón, el cerebro, los músculos y los huesos están en pleno desarrollo; las infecciones gastrointestinales y respiratorias son más frecuentes y graves; el cerebro puede presentar daños irreversibles que afectan la memoria, el lenguaje y el aprendizaje; y el crecimiento se ve restringido, lo que ocasiona baja talla en comparación con otros niños de la misma edad.
 
     p.mb-4 El reporte oportuno de estos casos es fundamental para activar programas de atención nutricional, suplementación alimentaria y seguimiento médico especializado, garantizando una intervención temprana que puede salvar vidas y evitar secuelas permanentes.(Ministerio de Salud y Protección Social, 2025).
@@ -372,7 +372,7 @@
           span <em>Proceso de la malaria</em>    
 
         .row.justify-content-center
-          .col-lg-12.col-10.mb-4
+          .col-lg-12.col-12.mb-4
             figure.desktop
               img(src='@/assets/curso/temas/tema1/figura-6-1vv.svg', alt='La figura 6 muestra el ciclo de transmisión de la malaria, que inicia cuando un mosquito infectado pica a una persona y transmite el parásito, el cual se multiplica primero en el hígado y luego en los glóbulos rojos. Posteriormente, otro mosquito que pica a esta persona puede ingerir el parásito y transmitir la enfermedad a un nuevo individuo mediante una siguiente picadura.')
             figure.movil
@@ -476,7 +476,7 @@
           span <em>Muertes en comunidad e imprevistas</em>    
 
         .row.justify-content-center
-          .col-lg-12.col-10.mb-4
+          .col-lg-12.col-12.mb-4
             figure.desktop
               img(src='@/assets/curso/temas/tema1/figura-7-1vv.svg', alt='Figura 7 que menciona situaciones de muertes imprevistas en la comunidad, como intoxicaciones, desastres naturales o muertes súbitas sin causa aparente y relaciona las acciones individuales y colectivas que se deben tomar frente a estos decesos.')
               figcaption Fuente: Instituto Nacional de Salud (2025)
@@ -500,7 +500,7 @@
           span <em>Conglomerados</em>    
 
         .row.justify-content-center
-          .col-lg-12.col-10.mb-4
+          .col-lg-12.col-12.mb-4
             figure.desktop
               img(src='@/assets/curso/temas/tema1/figura-8-1vv.svg', alt='Figura 8 que relaciona las señales de alerta en salud pública, como aumento de mosquitos, casos febriles o respiratorios, brotes diarreicos y muertes inusuales en personas o animales. Representa conglomerados asociados a enfermedades transmitidas por vectores, intoxicaciones y otros síndromes, junto con las acciones individuales y colectivas que se deben tomar frente a este problema.')
               figcaption Fuente: Instituto Nacional de Salud (2025)
@@ -519,7 +519,7 @@
           span <em>Dengue</em>    
 
         .row.justify-content-center
-          .col-lg-12.col-10.mb-4
+          .col-lg-12.col-12.mb-4
             figure.desktop
               img(src='@/assets/curso/temas/tema1/figura-9-1vv.svg', alt='Figura 9 que presenta información sobre el dengue, destacando sus principales síntomas, junto con medidas de prevención orientadas a eliminar criaderos de mosquitos, lavar y cepillar albercas y lavaderos, eliminar recipientes que acumulen agua y cambiar con frecuencia el agua de floreros y bebederos.')
             figure.movil
@@ -536,15 +536,15 @@
       .col-lg-10
         PasosA.color-acento-contenido.mb-4(tipo="n")
           .row.justify-content-center
-            .col-lg-8.order-lg-1.order-2(data-aos="fade-down")
+            .col-lg-7.order-lg-1.order-2(data-aos="fade-down")
               h4 Acciones individuales
               p.mb-0 Dentro de las acciones individuales están el reporte de síntomas, colaborar con las investigaciones sanitarias, acatar medidas de control y prevención.
-            .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-down")
+            .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema1/img-34.png', alt="Imagen decorativa")          
           .row.justify-content-center
-            .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-down")
+            .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema1/img-35.png', alt="Imagen decorativa")          
-            .col-lg-8(data-aos="fade-down")
+            .col-lg-7(data-aos="fade-down")
               h4 Acciones colectivas
               p.mb-0 En estas acciones es necesario realizar la investigación epidemiológica, hacer una intervención rápida, en caso de ser necesario hacer cierres temporales de centros (escuelas, fábricas), hacer la comunicación de los riesgos y educar de forma masiva, con el fin de contener el brote.
 
