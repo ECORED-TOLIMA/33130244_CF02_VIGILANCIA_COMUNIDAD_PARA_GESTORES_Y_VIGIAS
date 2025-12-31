@@ -141,14 +141,20 @@
           .col
             h3.mb-0 Acciones individuales y colectivas
 
-    .row
+    .row.mb-4
       .col-1.d-none.d-lg-block
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/img-08.svg', alt='Imagen decorativa')
       .col-11
         p.mb-0(data-aos="fade-right") La promoción de acciones individuales corresponde a vacunar mascotas, evitar el contacto con animales enfermos, reportar animales muertos o enfermos, así como las prácticas de higiene al manipular animales. De igual manera, las acciones colectivas son vigilancia veterinaria, campañas de vacunación, control de vectores, coordinación entre autoridades humanas y veterinarias, educación comunitaria, monitoreo y reporte de brotes (Instituto Nacional de Salud, 2023).
 
-    Separador
+    p.mb-4 Ejemplificando un poco las anteriores acciones, en el siguiente video se presentan dos situaciones relevantes: los factores ambientales, fenómenos naturales y sociales, así como las condiciones relacionadas con los animales. En cada caso se detallan las acciones individuales y colectivas que deben implementarse como resultado de la identificación y el reporte oportuno de la situación:  
+
+    .row.justify-content-center.align-items-center.mb-4           
+      .col-lg-12
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/fE0zh5F11NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.3. Síndromes febriles
@@ -221,7 +227,7 @@
 
     p.mb-4 Basado en los síndromes febriles, las principales acciones individuales y colectivas a tomar constan de: 
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-4
       .col-lg-10(data-aos="fade-down")
         .tarjeta--container.row.mb-4
           .col-xl.col-md-6.tarjeta.color-primario.p-5(style="background-color:#FFC025")
@@ -239,7 +245,13 @@
             h4.text-center.mb-4 Acciones colectivas
             p.mb-0 Notificar los casos sospechosos, realizar la vigilancia epidemiológica, implementar campañas de prevención, protocolos de aislamiento y control, y vacunación donde se requiera. (Instituto Nacional de Salud, 2023).
 
-    Separador
+    p.mb-4 Complementando lo anterior, en el siguiente video se presentan situaciones de interés en salud pública relacionadas con síndromes que actúan como señales de alerta temprana ante la posible presencia de diversas enfermedades. Entre estos síndromes se incluyen: fiebre acompañada de dificultad respiratoria y tos por más de 15 días, fiebre con brotes en la piel, fiebre con diarrea, fiebre con convulsiones o alteraciones neurológicas y fiebre con ictericia. Además, se mencionan las acciones individuales y colectivas asociadas a estos casos:  
+
+    .row.justify-content-center.align-items-center.mb-4           
+      .col-lg-12
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/0XKObF8agu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.4. Casos específicos
@@ -335,7 +347,15 @@
               <i class="fa-solid fa-circle-user bg-color-4"></i>
               | En la niñez temprana, los efectos son más severos porque los órganos vitales como el corazón, el cerebro, los músculos y los huesos están en pleno desarrollo; las infecciones gastrointestinales y respiratorias son más frecuentes y graves; el cerebro puede presentar daños irreversibles que afectan la memoria, el lenguaje y el aprendizaje; y el crecimiento se ve restringido, lo que ocasiona baja talla en comparación con otros niños de la misma edad.
 
-    p.mb-4 El reporte oportuno de estos casos es fundamental para activar programas de atención nutricional, suplementación alimentaria y seguimiento médico especializado, garantizando una intervención temprana que puede salvar vidas y evitar secuelas permanentes.(Ministerio de Salud y Protección Social, 2025).
+    p El reporte oportuno de estos casos es fundamental para activar programas de atención nutricional, suplementación alimentaria y seguimiento médico especializado, garantizando una intervención temprana que puede salvar vidas y evitar secuelas permanentes.(Ministerio de Salud y Protección Social, 2025).
+
+    p.mb-4 Para clarificar los anteriores casos tratados, es importante acceder al siguiente video donde se abordan casos específicos, como las complicaciones durante el embarazo y la desnutrición en menores de cinco años. Para cada situación, se destaca su relevancia, los riesgos asociados y el valor que aporta su detección temprana para la salud pública:  
+
+    .row.justify-content-center.align-items-center.mb-4           
+      .col-lg-12
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/FCa4QKY8sC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mb-4.ms-0
       .col-auto.bg-titulo1(data-aos="fade-left")
