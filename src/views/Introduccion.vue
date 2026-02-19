@@ -26,7 +26,7 @@
             .col-xl
               p.mb-0 Implementar la VBC requiere instruir a los agentes comunitarios en la identificación de síntomas, factores ambientales y sociales, así como en la activación de rutas de atención y manejo preventivo. 
 
-      p.mb-4.text-center Por todo anterior, es importante que acceda al siguiente video y de paso, se contextualice con la temática a tratar:
+      p.mb-4 Por todo anterior, es importante que acceda al siguiente video y de paso, se contextualice con la temática a tratar:
 
     .row.justify-content-center.align-items-center           
       .col-lg-12

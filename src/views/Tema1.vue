@@ -487,7 +487,7 @@
             h4.text-center.mb-4 Acciones colectivas
             p.mb-0 En las acciones colectivas se requiere la implementación de protocolos de registro y vigilancia, intervención policial o forense si procede, análisis para detectar causas prevenibles, programas de promoción de la salud y prevención de muerte evitable.
 
-    p.mb-4.text-center En la siguiente figura se detallan dichas acciones frente a este tipo de muertes:
+    p.mb-4 En la siguiente figura se detallan dichas acciones frente a este tipo de muertes:
 
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10.col-12
