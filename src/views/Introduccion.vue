@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    .bg-c1.px-md-5.px-4.mb-0
+    .bg-c1.px-md-5.px-4.mb-4
       .row.justify-content-center.mb-4
         .col-12(data-aos="zoom-in")
           figure

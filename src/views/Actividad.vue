@@ -169,7 +169,7 @@ export default {
           id: 6,
           texto:
             'La siguiente situación de interés en salud pública: “Mordedura de perro sin vacuna antirrábica”, corresponde a:',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -203,7 +203,7 @@ export default {
           id: 7,
           texto:
             'La siguiente situación de interés en salud pública: “Fiebre con brotes en la piel”, corresponde a:',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -236,7 +236,7 @@ export default {
           id: 8,
           texto:
             'La siguiente situación de interés en salud pública: “Complicaciones en el embarazo”, corresponde a:',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -270,7 +270,7 @@ export default {
           id: 9,
           texto:
             'La siguiente situación de interés en salud pública: “Agua contaminada”, corresponde a:',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -304,7 +304,7 @@ export default {
           id: 10,
           texto:
             'La siguiente situación de interés en salud pública: “Niños menores de 5 años con signos de desnutrición”, corresponde a:',
-          imagen: require('@/assets/actividad/imagen5.png'),
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -419,7 +419,7 @@ export default {
           id: 16,
           texto:
             'El reporte temprano de enfermedades y muertes en animales puede ayudar a prevenir brotes de enfermedades zoonóticas en humanos.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdero', esCorrecta: true },
@@ -434,7 +434,7 @@ export default {
           id: 17,
           texto:
             'Los factores potencialmente relacionados con la salud pública pueden incluir contaminación ambiental, factores sociales y conductas individuales.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdero', esCorrecta: true },
@@ -449,7 +449,7 @@ export default {
           id: 18,
           texto:
             'Las acciones individuales ante síndromes febriles incluyen evitar la consulta médica hasta tener complicaciones.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdero', esCorrecta: false },
@@ -464,7 +464,7 @@ export default {
           id: 19,
           texto:
             'Solo el personal de salud puede reportar conglomerados o brotes a las autoridades sanitarias.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdero', esCorrecta: false },
@@ -479,7 +479,7 @@ export default {
           id: 20,
           texto:
             'El análisis de muertes en comunidad ayuda a identificar emergencias sanitarias y a proteger a la población.',
-          imagen: require('@/assets/actividad/imagen5.png'),
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdero', esCorrecta: true },
