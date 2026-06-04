@@ -154,7 +154,7 @@
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-lg-10.col-12
         .cajon.cajon.color-secundario-medio.p-4
-          p.mb-0 Ejemplificando un poco las anteriores acciones, en el siguiente video se presentan dos situaciones relevantes: los factores ambientales, fenómenos naturales y sociales, así como las condiciones relacionadas con los animales. En cada caso se detallan las acciones individuales y colectivas que deben implementarse como resultado de la identificación y el reporte oportuno de la situación:  
+          p.mb-0 Ejemplificando un poco las anteriores acciones, en el siguiente video se presentan dos situaciones relevantes: los factores ambientales, fenómenos naturales y sociales, así como las condiciones relacionadas con los animales. En cada caso se detallan las acciones individuales y colectivas que deben implementarse como resultado de la identificación y el reporte oportuno de la situación:
 
     .row.justify-content-center.align-items-center           
       .col-lg-12
@@ -205,7 +205,7 @@
           .row
             .col-lg-6.order-2.order-lg-1
               h4(style="color:#000 !important") Fiebre con diarrea
-              p.mb-0(style="color:#000 !important") Es cuando una persona presenta fiebre acompañada de diarrea; se trata de una situación de interés en salud pública, que puede estar relacionada con infecciones gastrointestinales, consumo de agua o alimentos contaminados, cólera u otras enfermedades diarreicas aguda. El reporte desde la comunidad aporta a las autoridades para investigar la fuente de contaminación y prevenir brotes, especialmente en contextos de hacinamiento o con deficiencias en el acceso al agua potable. (Acuña, 2015).
+              p.mb-0(style="color:#000 !important") Es cuando una persona presenta fiebre acompañada de diarrea; se trata de una situación de interés en salud pública, que puede estar relacionada con infecciones gastrointestinales, consumo de agua o alimentos contaminados, cólera u otras enfermedades diarreicas agudas. El reporte desde la comunidad aporta a las autoridades para investigar la fuente de contaminación y prevenir brotes, especialmente en contextos de hacinamiento o con deficiencias en el acceso al agua potable. (Acuña, 2015).
             .col-lg-6.col-10.order-1.order-lg-2.mb-4
               figure
                 img(src='@/assets/curso/temas/tema1/img-11.svg', alt='')
@@ -233,7 +233,7 @@
           .col
             h3.mb-0 Acciones individuales y colectivas
 
-    p.mb-4 Basado en los síndromes febriles, las principales acciones individuales y colectivas a tomar constan de: 
+    p.mb-4 Basado en los síndromes febriles, las principales acciones individuales y colectivas a desarrollar son: 
 
     .row.justify-content-center.mb-4
       .col-lg-10(data-aos="fade-down")
@@ -400,7 +400,7 @@
     .row.justify-content-center.mb-4
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         .cajon-b.color-primario.p-3(data-aos="fade-right")
-          p.mb-0 La participación comunitaria es decisiva en la vigilancia de la malaria; reconocer y reportar los síntomas febriles de manera temprana, permite activar la búsqueda de casos, interrumpir la cadena de transmisión y reducir la mortalidad. Además, la comunidad puede contribuir con acciones de prevención como el uso de toldillo o mosquiteros tratados con insecticida, eliminación de criaderos de mosquitos, acceso oportuno a servicios de salud y promoción de la educación en hábitos protectores. La lucha contra la malaria no depende solo del sistema sanitario, sino también del compromiso activo de la población. La identificación temprana de casos y la adopción de medidas de prevención fortalecen los esfuerzos hacia el control, eliminación y eventual erradicación de esta enfermedad en los territorios más afectados. (Organización Panamericana de la Salud, 2023)  
+          p.mb-0 La participación comunitaria es decisiva en la vigilancia de la malaria; reconocer y reportar los síntomas febriles de manera temprana, permite activar la búsqueda de casos, interrumpir la cadena de transmisión y reducir la mortalidad. Además, la comunidad puede contribuir con acciones de prevención como el uso de toldillos o mosquiteros tratados con insecticida, eliminación de criaderos de mosquitos, acceso oportuno a servicios de salud y promoción de la educación en hábitos protectores. La lucha contra la malaria no depende solo del sistema sanitario, sino también del compromiso activo de la población. La identificación temprana de casos y la adopción de medidas de prevención fortalecen los esfuerzos hacia el control, eliminación y eventual erradicación de esta enfermedad en los territorios más afectados. (Organización Panamericana de la Salud, 2023).  
       .col-lg-5.col-6.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema1/img-24.png' alt="")
 
@@ -426,7 +426,7 @@
           .col
             h3.mb-0 Acciones individuales y colectivas
 
-    p.mb-4 De acuerdo con lo establecido con el Instituto Nacional de salud (2025), se dan de la siguiente manera: 
+    p.mb-4 De acuerdo con lo establecido por el Instituto Nacional de salud (2025), se dan de la siguiente manera: 
 
     .row.justify-content-center
       .col-lg-10.col-12
@@ -439,7 +439,7 @@
                 img(src='@/assets/curso/temas/tema1/img-25.png', alt='')
           .row.mb-0(numero="2" titulo="Acciones colectivas")
             .col-12
-              p Corresponden a la educación comunitaria (información que corresponde a la prevención, síntomas e importancia de completar los tratamientos), asimismo, el control de vectores (eliminación de aguas estancadas, uso de mosquiteros, repelentes y fumigación) acceso a servicios de salud, cumplimiento de tratamientos) y la vigilancia y control de casos (detección temprana, tratamiento completo y seguimiento).
+              p Corresponden a la educación comunitaria (información que corresponde a la prevención, síntomas e importancia de completar los tratamientos), asimismo, el control de vectores (eliminación de aguas estancadas, uso de mosquiteros, repelentes y fumigación) acceso a servicios de salud, cumplimiento de tratamientos y la vigilancia y control de casos (detección temprana, tratamiento completo y seguimiento).
               figure
                 img(src='@/assets/curso/temas/tema1/img-26.png', alt='')
 
@@ -486,7 +486,7 @@
           .col
             h3.mb-0 Acciones individuales y colectivas
     
-    p.mb-4 Sobre este tipo de muertes se explica su respectivo accionar: 
+    p.mb-4 Sobre este tipo de muertes la Vigilancia basada en comunidad (VBC) establece:
 
     .row.justify-content-center
       .col-lg-10(data-aos="fade-down")
@@ -532,7 +532,7 @@
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/img-34.svg', alt='')
       .col-11
-        p.mb-0(data-aos="fade-right") Los conglomerados son los grupos de casos o síndromes similares, que ocurren en el mismo lugar (cuya percepción de la comunidad es de comportamiento atípico o inusual) y tiempo (días y/o semanas). La identificación de estos pueden ser la detección de brotes que requieren de un despliegue inicial y de una respuesta integrada por los equipos de vigilancia y los servicios de salud (ver ilustración 15).
+        p.mb-0(data-aos="fade-right") Los conglomerados son los grupos de casos o síndromes similares, que ocurren en el mismo lugar (cuya percepción de la comunidad es de comportamiento atípico o inusual) y tiempo (días y/o semanas). La identificación de estos pueden ser la detección de brotes que requieren de un despliegue inicial y de una respuesta integrada por los equipos de vigilancia y los servicios de salud (ver figura 8).
 
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10.col-12
